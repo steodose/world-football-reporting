@@ -4,7 +4,7 @@ name: update-big-5-data
 # Controls when the action will run.
 on:
   schedule:
-    - cron: "15 21 * * MON" # Every Monday at 11:59pm UTC (4:59pm Pacific)'
+    - cron: "00 23 * * MON" # Every Monday at 11:00pm UTC (4:00pm Pacific)'
 
 jobs:
   autoscrape:
