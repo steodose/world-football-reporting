@@ -1,0 +1,36 @@
+# Update Big 5 European Leagues Dashboard data
+name: update-big-5-data
+
+# Controls when the action will run.
+on:
+  schedule:
+    - cron: "00 23 * * MON" # Every Monday at 11:00pm UTC (4:00pm Pacific)'
+
+jobs:
+  autoscrape:
+    # The type of runner that the job will run on
+    runs-on: macos-latest
+
+    # Load repo and install R
+    steps:
+    - uses: actions/checkout@master
+    - uses: r-lib/actions/setup-r@master
+
+    # Set-up R
+    - name: Install packages
+      run: |
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("worldfootballR")'
+        R -e 'install.packages("googlesheets4")'
+    # Run R script
+    - name: Big_Five
+      run: Rscript Big_5_Leagues.R
+
+    # Add new files in Google Sheets based on content of script
+    - name: Commit files
+      run: |
+        git config --local user.name github-actions
+        git config --local user.email "actions@github.com"
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
