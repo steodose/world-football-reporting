@@ -22,6 +22,12 @@ jobs:
         with:
           # uses the RStudio Package Manager
           use-public-rspm: true
+          
+          # Set-up R
+      - name: Install packages
+        run: |
+          R -e 'install.packages("tidyverse")'
+          R -e 'install.packages("googlesheets4")'
 
       - name: Execute Script
         # executes the RScript stored in the file
