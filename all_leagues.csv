@@ -1,0 +1,1031 @@
+Div,Date,home_away,team,score,opp_score,Pts,win,goal_diff,points_running,gd_running,wins_running,match_count
+E0,05/08/2022,HomeTeam,Crystal Palace,0,2,0,0,-2,0,-2,0,1
+E0,05/08/2022,AwayTeam,Arsenal,2,0,3,1,2,3,2,1,1
+E0,06/08/2022,HomeTeam,Fulham,2,2,1,0,0,1,0,0,1
+E0,06/08/2022,AwayTeam,Liverpool,2,2,1,0,0,1,0,0,1
+E0,06/08/2022,HomeTeam,Bournemouth,2,0,3,1,2,3,2,1,1
+E0,06/08/2022,AwayTeam,Aston Villa,0,2,0,0,-2,0,-2,0,1
+E0,06/08/2022,HomeTeam,Leeds,2,1,3,1,1,3,1,1,1
+E0,06/08/2022,AwayTeam,Wolves,1,2,0,0,-1,0,-1,0,1
+E0,06/08/2022,HomeTeam,Newcastle,2,0,3,1,2,3,2,1,1
+E0,06/08/2022,AwayTeam,Nott'm Forest,0,2,0,0,-2,0,-2,0,1
+E0,06/08/2022,HomeTeam,Tottenham,4,1,3,1,3,3,3,1,1
+E0,06/08/2022,AwayTeam,Southampton,1,4,0,0,-3,0,-3,0,1
+E0,06/08/2022,HomeTeam,Everton,0,1,0,0,-1,0,-1,0,1
+E0,06/08/2022,AwayTeam,Chelsea,1,0,3,1,1,3,1,1,1
+E0,07/08/2022,HomeTeam,Leicester,2,2,1,0,0,1,0,0,1
+E0,07/08/2022,AwayTeam,Brentford,2,2,1,0,0,1,0,0,1
+E0,07/08/2022,HomeTeam,Man United,1,2,0,0,-1,0,-1,0,1
+E0,07/08/2022,AwayTeam,Brighton,2,1,3,1,1,3,1,1,1
+E0,07/08/2022,HomeTeam,West Ham,0,2,0,0,-2,0,-2,0,1
+E0,07/08/2022,AwayTeam,Man City,2,0,3,1,2,3,2,1,1
+E0,13/08/2022,HomeTeam,Aston Villa,2,1,3,1,1,3,-1,1,2
+E0,13/08/2022,AwayTeam,Everton,1,2,0,0,-1,0,-2,0,2
+E0,13/08/2022,HomeTeam,Arsenal,4,2,3,1,2,6,4,2,2
+E0,13/08/2022,AwayTeam,Leicester,2,4,0,0,-2,1,-2,0,2
+E0,13/08/2022,HomeTeam,Brighton,0,0,1,0,0,4,1,1,2
+E0,13/08/2022,AwayTeam,Newcastle,0,0,1,0,0,4,2,1,2
+E0,13/08/2022,HomeTeam,Man City,4,0,3,1,4,6,6,2,2
+E0,13/08/2022,AwayTeam,Bournemouth,0,4,0,0,-4,3,-2,1,2
+E0,13/08/2022,HomeTeam,Southampton,2,2,1,0,0,1,-3,0,2
+E0,13/08/2022,AwayTeam,Leeds,2,2,1,0,0,4,1,1,2
+E0,13/08/2022,HomeTeam,Wolves,0,0,1,0,0,1,-1,0,2
+E0,13/08/2022,AwayTeam,Fulham,0,0,1,0,0,2,0,0,2
+E0,13/08/2022,HomeTeam,Brentford,4,0,3,1,4,4,4,1,2
+E0,13/08/2022,AwayTeam,Man United,0,4,0,0,-4,0,-5,0,2
+E0,14/08/2022,HomeTeam,Nott'm Forest,1,0,3,1,1,3,-1,1,2
+E0,14/08/2022,AwayTeam,West Ham,0,1,0,0,-1,0,-3,0,2
+E0,14/08/2022,HomeTeam,Chelsea,2,2,1,0,0,4,1,1,2
+E0,14/08/2022,AwayTeam,Tottenham,2,2,1,0,0,4,3,1,2
+E0,15/08/2022,HomeTeam,Liverpool,1,1,1,0,0,2,0,0,2
+E0,15/08/2022,AwayTeam,Crystal Palace,1,1,1,0,0,1,-2,0,2
+E0,20/08/2022,HomeTeam,Tottenham,1,0,3,1,1,7,4,2,3
+E0,20/08/2022,AwayTeam,Wolves,0,1,0,0,-1,1,-2,0,3
+E0,20/08/2022,HomeTeam,Crystal Palace,3,1,3,1,2,4,0,1,3
+E0,20/08/2022,AwayTeam,Aston Villa,1,3,0,0,-2,3,-3,1,3
+E0,20/08/2022,HomeTeam,Everton,1,1,1,0,0,1,-2,0,3
+E0,20/08/2022,AwayTeam,Nott'm Forest,1,1,1,0,0,4,-1,1,3
+E0,20/08/2022,HomeTeam,Fulham,3,2,3,1,1,5,1,1,3
+E0,20/08/2022,AwayTeam,Brentford,2,3,0,0,-1,4,3,1,3
+E0,20/08/2022,HomeTeam,Leicester,1,2,0,0,-1,1,-3,0,3
+E0,20/08/2022,AwayTeam,Southampton,2,1,3,1,1,4,-2,1,3
+E0,20/08/2022,HomeTeam,Bournemouth,0,3,0,0,-3,3,-5,1,3
+E0,20/08/2022,AwayTeam,Arsenal,3,0,3,1,3,9,7,3,3
+E0,21/08/2022,HomeTeam,Leeds,3,0,3,1,3,7,4,2,3
+E0,21/08/2022,AwayTeam,Chelsea,0,3,0,0,-3,4,-2,1,3
+E0,21/08/2022,HomeTeam,West Ham,0,2,0,0,-2,0,-5,0,3
+E0,21/08/2022,AwayTeam,Brighton,2,0,3,1,2,7,3,2,3
+E0,21/08/2022,HomeTeam,Newcastle,3,3,1,0,0,5,2,1,3
+E0,21/08/2022,AwayTeam,Man City,3,3,1,0,0,7,6,2,3
+D1,05/08/2022,HomeTeam,Ein Frankfurt,1,6,0,0,-5,0,-5,0,1
+D1,05/08/2022,AwayTeam,Bayern Munich,6,1,3,1,5,3,5,1,1
+D1,06/08/2022,HomeTeam,Augsburg,0,4,0,0,-4,0,-4,0,1
+D1,06/08/2022,AwayTeam,Freiburg,4,0,3,1,4,3,4,1,1
+D1,06/08/2022,HomeTeam,Bochum,1,2,0,0,-1,0,-1,0,1
+D1,06/08/2022,AwayTeam,Mainz,2,1,3,1,1,3,1,1,1
+D1,06/08/2022,HomeTeam,M'gladbach,3,1,3,1,2,3,2,1,1
+D1,06/08/2022,AwayTeam,Hoffenheim,1,3,0,0,-2,0,-2,0,1
+D1,06/08/2022,HomeTeam,Union Berlin,3,1,3,1,2,3,2,1,1
+D1,06/08/2022,AwayTeam,Hertha,1,3,0,0,-2,0,-2,0,1
+D1,06/08/2022,HomeTeam,Wolfsburg,2,2,1,0,0,1,0,0,1
+D1,06/08/2022,AwayTeam,Werder Bremen,2,2,1,0,0,1,0,0,1
+D1,06/08/2022,HomeTeam,Dortmund,1,0,3,1,1,3,1,1,1
+D1,06/08/2022,AwayTeam,Leverkusen,0,1,0,0,-1,0,-1,0,1
+D1,07/08/2022,HomeTeam,Stuttgart,1,1,1,0,0,1,0,0,1
+D1,07/08/2022,AwayTeam,RB Leipzig,1,1,1,0,0,1,0,0,1
+D1,07/08/2022,HomeTeam,FC Koln,3,1,3,1,2,3,2,1,1
+D1,07/08/2022,AwayTeam,Schalke 04,1,3,0,0,-2,0,-2,0,1
+D1,12/08/2022,HomeTeam,Freiburg,1,3,0,0,-2,3,2,1,2
+D1,12/08/2022,AwayTeam,Dortmund,3,1,3,1,2,6,3,2,2
+D1,13/08/2022,HomeTeam,Hertha,1,1,1,0,0,1,-2,0,2
+D1,13/08/2022,AwayTeam,Ein Frankfurt,1,1,1,0,0,1,-5,0,2
+D1,13/08/2022,HomeTeam,Hoffenheim,3,2,3,1,1,3,-1,1,2
+D1,13/08/2022,AwayTeam,Bochum,2,3,0,0,-1,0,-2,0,2
+D1,13/08/2022,HomeTeam,Leverkusen,1,2,0,0,-1,0,-2,0,2
+D1,13/08/2022,AwayTeam,Augsburg,2,1,3,1,1,3,-3,1,2
+D1,13/08/2022,HomeTeam,RB Leipzig,2,2,1,0,0,2,0,0,2
+D1,13/08/2022,AwayTeam,FC Koln,2,2,1,0,0,4,2,1,2
+D1,13/08/2022,HomeTeam,Werder Bremen,2,2,1,0,0,2,0,0,2
+D1,13/08/2022,AwayTeam,Stuttgart,2,2,1,0,0,2,0,0,2
+D1,13/08/2022,HomeTeam,Schalke 04,2,2,1,0,0,1,-2,0,2
+D1,13/08/2022,AwayTeam,M'gladbach,2,2,1,0,0,4,2,1,2
+D1,14/08/2022,HomeTeam,Mainz,0,0,1,0,0,4,1,1,2
+D1,14/08/2022,AwayTeam,Union Berlin,0,0,1,0,0,4,2,1,2
+D1,14/08/2022,HomeTeam,Bayern Munich,2,0,3,1,2,6,7,2,2
+D1,14/08/2022,AwayTeam,Wolfsburg,0,2,0,0,-2,1,-2,0,2
+D1,19/08/2022,HomeTeam,M'gladbach,1,0,3,1,1,7,3,2,3
+D1,19/08/2022,AwayTeam,Hertha,0,1,0,0,-1,1,-3,0,3
+D1,20/08/2022,HomeTeam,Augsburg,1,2,0,0,-1,3,-4,1,3
+D1,20/08/2022,AwayTeam,Mainz,2,1,3,1,1,7,2,2,3
+D1,20/08/2022,HomeTeam,Dortmund,2,3,0,0,-1,6,2,2,3
+D1,20/08/2022,AwayTeam,Werder Bremen,3,2,3,1,1,5,1,1,3
+D1,20/08/2022,HomeTeam,Leverkusen,0,3,0,0,-3,0,-5,0,3
+D1,20/08/2022,AwayTeam,Hoffenheim,3,0,3,1,3,6,2,2,3
+D1,20/08/2022,HomeTeam,Stuttgart,0,1,0,0,-1,2,-1,0,3
+D1,20/08/2022,AwayTeam,Freiburg,1,0,3,1,1,6,3,2,3
+D1,20/08/2022,HomeTeam,Wolfsburg,0,0,1,0,0,2,-2,0,3
+D1,20/08/2022,AwayTeam,Schalke 04,0,0,1,0,0,2,-2,0,3
+D1,20/08/2022,HomeTeam,Union Berlin,2,1,3,1,1,7,3,2,3
+D1,20/08/2022,AwayTeam,RB Leipzig,1,2,0,0,-1,2,-1,0,3
+D1,21/08/2022,HomeTeam,Ein Frankfurt,1,1,1,0,0,2,-5,0,3
+D1,21/08/2022,AwayTeam,FC Koln,1,1,1,0,0,5,2,1,3
+D1,21/08/2022,HomeTeam,Bochum,0,7,0,0,-7,0,-9,0,3
+D1,21/08/2022,AwayTeam,Bayern Munich,7,0,3,1,7,9,14,3,3
+SP1,12/08/2022,HomeTeam,Osasuna,2,1,3,1,1,3,1,1,1
+SP1,12/08/2022,AwayTeam,Sevilla,1,2,0,0,-1,0,-1,0,1
+SP1,13/08/2022,HomeTeam,Celta,2,2,1,0,0,1,0,0,1
+SP1,13/08/2022,AwayTeam,Espanol,2,2,1,0,0,1,0,0,1
+SP1,13/08/2022,HomeTeam,Valladolid,0,3,0,0,-3,0,-3,0,1
+SP1,13/08/2022,AwayTeam,Villarreal,3,0,3,1,3,3,3,1,1
+SP1,13/08/2022,HomeTeam,Barcelona,0,0,1,0,0,1,0,0,1
+SP1,13/08/2022,AwayTeam,Vallecano,0,0,1,0,0,1,0,0,1
+SP1,14/08/2022,HomeTeam,Cadiz,0,1,0,0,-1,0,-1,0,1
+SP1,14/08/2022,AwayTeam,Sociedad,1,0,3,1,1,3,1,1,1
+SP1,14/08/2022,HomeTeam,Valencia,1,0,3,1,1,3,1,1,1
+SP1,14/08/2022,AwayTeam,Girona,0,1,0,0,-1,0,-1,0,1
+SP1,14/08/2022,HomeTeam,Almeria,1,2,0,0,-1,0,-1,0,1
+SP1,14/08/2022,AwayTeam,Real Madrid,2,1,3,1,1,3,1,1,1
+SP1,15/08/2022,HomeTeam,Ath Bilbao,0,0,1,0,0,1,0,0,1
+SP1,15/08/2022,AwayTeam,Mallorca,0,0,1,0,0,1,0,0,1
+SP1,15/08/2022,HomeTeam,Getafe,0,3,0,0,-3,0,-3,0,1
+SP1,15/08/2022,AwayTeam,Ath Madrid,3,0,3,1,3,3,3,1,1
+SP1,15/08/2022,HomeTeam,Betis,3,0,3,1,3,3,3,1,1
+SP1,15/08/2022,AwayTeam,Elche,0,3,0,0,-3,0,-3,0,1
+SP1,19/08/2022,HomeTeam,Espanol,0,2,0,0,-2,1,-2,0,2
+SP1,19/08/2022,AwayTeam,Vallecano,2,0,3,1,2,4,2,1,2
+SP1,19/08/2022,HomeTeam,Sevilla,1,1,1,0,0,1,-1,0,2
+SP1,19/08/2022,AwayTeam,Valladolid,1,1,1,0,0,1,-3,0,2
+SP1,20/08/2022,HomeTeam,Osasuna,2,0,3,1,2,6,3,2,2
+SP1,20/08/2022,AwayTeam,Cadiz,0,2,0,0,-2,0,-3,0,2
+SP1,20/08/2022,HomeTeam,Mallorca,1,2,0,0,-1,1,-1,0,2
+SP1,20/08/2022,AwayTeam,Betis,2,1,3,1,1,6,4,2,2
+SP1,20/08/2022,HomeTeam,Celta,1,4,0,0,-3,1,-3,0,2
+SP1,20/08/2022,AwayTeam,Real Madrid,4,1,3,1,3,6,4,2,2
+SP1,21/08/2022,HomeTeam,Ath Bilbao,1,0,3,1,1,4,1,1,2
+SP1,21/08/2022,AwayTeam,Valencia,0,1,0,0,-1,3,0,1,2
+SP1,21/08/2022,HomeTeam,Ath Madrid,0,2,0,0,-2,3,1,1,2
+SP1,21/08/2022,AwayTeam,Villarreal,2,0,3,1,2,6,5,2,2
+SP1,21/08/2022,HomeTeam,Sociedad,1,4,0,0,-3,3,-2,1,2
+SP1,21/08/2022,AwayTeam,Barcelona,4,1,3,1,3,4,3,1,2
+F1,05/08/2022,HomeTeam,Lyon,2,1,3,1,1,3,1,1,1
+F1,05/08/2022,AwayTeam,Ajaccio,1,2,0,0,-1,0,-1,0,1
+F1,06/08/2022,HomeTeam,Strasbourg,1,2,0,0,-1,0,-1,0,1
+F1,06/08/2022,AwayTeam,Monaco,2,1,3,1,1,3,1,1,1
+F1,06/08/2022,HomeTeam,Clermont,0,5,0,0,-5,0,-5,0,1
+F1,06/08/2022,AwayTeam,Paris SG,5,0,3,1,5,3,5,1,1
+F1,07/08/2022,HomeTeam,Toulouse,1,1,1,0,0,1,0,0,1
+F1,07/08/2022,AwayTeam,Nice,1,1,1,0,0,1,0,0,1
+F1,07/08/2022,HomeTeam,Angers,0,0,1,0,0,1,0,0,1
+F1,07/08/2022,AwayTeam,Nantes,0,0,1,0,0,1,0,0,1
+F1,07/08/2022,HomeTeam,Lens,3,2,3,1,1,3,1,1,1
+F1,07/08/2022,AwayTeam,Brest,2,3,0,0,-1,0,-1,0,1
+F1,07/08/2022,HomeTeam,Lille,4,1,3,1,3,3,3,1,1
+F1,07/08/2022,AwayTeam,Auxerre,1,4,0,0,-3,0,-3,0,1
+F1,07/08/2022,HomeTeam,Montpellier,3,2,3,1,1,3,1,1,1
+F1,07/08/2022,AwayTeam,Troyes,2,3,0,0,-1,0,-1,0,1
+F1,07/08/2022,HomeTeam,Rennes,0,1,0,0,-1,0,-1,0,1
+F1,07/08/2022,AwayTeam,Lorient,1,0,3,1,1,3,1,1,1
+F1,07/08/2022,HomeTeam,Marseille,4,1,3,1,3,3,3,1,1
+F1,07/08/2022,AwayTeam,Reims,1,4,0,0,-3,0,-3,0,1
+F1,12/08/2022,HomeTeam,Nantes,1,1,1,0,0,2,0,0,2
+F1,12/08/2022,AwayTeam,Lille,1,1,1,0,0,4,3,1,2
+F1,13/08/2022,HomeTeam,Monaco,1,1,1,0,0,4,1,1,2
+F1,13/08/2022,AwayTeam,Rennes,1,1,1,0,0,1,-1,0,2
+F1,13/08/2022,HomeTeam,Paris SG,5,2,3,1,3,6,8,2,2
+F1,13/08/2022,AwayTeam,Montpellier,2,5,0,0,-3,3,-2,1,2
+F1,14/08/2022,HomeTeam,Ajaccio,0,0,1,0,0,1,-1,0,2
+F1,14/08/2022,AwayTeam,Lens,0,0,1,0,0,4,1,1,2
+F1,14/08/2022,HomeTeam,Auxerre,2,2,1,0,0,1,-3,0,2
+F1,14/08/2022,AwayTeam,Angers,2,2,1,0,0,2,0,0,2
+F1,14/08/2022,HomeTeam,Reims,2,4,0,0,-2,0,-5,0,2
+F1,14/08/2022,AwayTeam,Clermont,4,2,3,1,2,3,-3,1,2
+F1,14/08/2022,HomeTeam,Troyes,0,3,0,0,-3,0,-4,0,2
+F1,14/08/2022,AwayTeam,Toulouse,3,0,3,1,3,4,3,1,2
+F1,14/08/2022,HomeTeam,Nice,1,1,1,0,0,2,0,0,2
+F1,14/08/2022,AwayTeam,Strasbourg,1,1,1,0,0,1,-1,0,2
+F1,14/08/2022,HomeTeam,Brest,1,1,1,0,0,1,-1,0,2
+F1,14/08/2022,AwayTeam,Marseille,1,1,1,0,0,4,3,1,2
+F1,19/08/2022,HomeTeam,Lyon,4,1,3,1,3,6,4,2,2
+F1,19/08/2022,AwayTeam,Troyes,1,4,0,0,-3,0,-7,0,3
+F1,20/08/2022,HomeTeam,Monaco,1,4,0,0,-3,4,-2,1,3
+F1,20/08/2022,AwayTeam,Lens,4,1,3,1,3,7,4,2,3
+F1,20/08/2022,HomeTeam,Marseille,2,1,3,1,1,7,4,2,3
+F1,20/08/2022,AwayTeam,Nantes,1,2,0,0,-1,2,-1,0,3
+F1,21/08/2022,HomeTeam,Strasbourg,1,1,1,0,0,2,-1,0,3
+F1,21/08/2022,AwayTeam,Reims,1,1,1,0,0,1,-5,0,3
+F1,21/08/2022,HomeTeam,Angers,1,3,0,0,-2,2,-2,0,3
+F1,21/08/2022,AwayTeam,Brest,3,1,3,1,2,4,1,1,3
+F1,21/08/2022,HomeTeam,Clermont,1,0,3,1,1,6,-2,2,3
+F1,21/08/2022,AwayTeam,Nice,0,1,0,0,-1,2,-1,0,3
+F1,21/08/2022,HomeTeam,Montpellier,1,2,0,0,-1,3,-3,1,3
+F1,21/08/2022,AwayTeam,Auxerre,2,1,3,1,1,4,-2,1,3
+F1,21/08/2022,HomeTeam,Toulouse,2,2,1,0,0,5,3,1,3
+F1,21/08/2022,AwayTeam,Lorient,2,2,1,0,0,4,1,1,2
+F1,21/08/2022,HomeTeam,Rennes,2,1,3,1,1,4,0,1,3
+F1,21/08/2022,AwayTeam,Ajaccio,1,2,0,0,-1,1,-2,0,3
+F1,21/08/2022,HomeTeam,Lille,1,7,0,0,-6,4,-3,1,3
+F1,21/08/2022,AwayTeam,Paris SG,7,1,3,1,6,9,14,3,3
+I1,13/08/2022,HomeTeam,Milan,4,2,3,1,2,3,2,1,1
+I1,13/08/2022,AwayTeam,Udinese,2,4,0,0,-2,0,-2,0,1
+I1,13/08/2022,HomeTeam,Sampdoria,0,2,0,0,-2,0,-2,0,1
+I1,13/08/2022,AwayTeam,Atalanta,2,0,3,1,2,3,2,1,1
+I1,13/08/2022,HomeTeam,Lecce,1,2,0,0,-1,0,-1,0,1
+I1,13/08/2022,AwayTeam,Inter,2,1,3,1,1,3,1,1,1
+I1,13/08/2022,HomeTeam,Monza,1,2,0,0,-1,0,-1,0,1
+I1,13/08/2022,AwayTeam,Torino,2,1,3,1,1,3,1,1,1
+I1,14/08/2022,HomeTeam,Fiorentina,3,2,3,1,1,3,1,1,1
+I1,14/08/2022,AwayTeam,Cremonese,2,3,0,0,-1,0,-1,0,1
+I1,14/08/2022,HomeTeam,Lazio,2,1,3,1,1,3,1,1,1
+I1,14/08/2022,AwayTeam,Bologna,1,2,0,0,-1,0,-1,0,1
+I1,14/08/2022,HomeTeam,Salernitana,0,1,0,0,-1,0,-1,0,1
+I1,14/08/2022,AwayTeam,Roma,1,0,3,1,1,3,1,1,1
+I1,14/08/2022,HomeTeam,Spezia,1,0,3,1,1,3,1,1,1
+I1,14/08/2022,AwayTeam,Empoli,0,1,0,0,-1,0,-1,0,1
+I1,15/08/2022,HomeTeam,Verona,2,5,0,0,-3,0,-3,0,1
+I1,15/08/2022,AwayTeam,Napoli,5,2,3,1,3,3,3,1,1
+I1,15/08/2022,HomeTeam,Juventus,3,0,3,1,3,3,3,1,1
+I1,15/08/2022,AwayTeam,Sassuolo,0,3,0,0,-3,0,-3,0,1
+I1,20/08/2022,HomeTeam,Torino,0,0,1,0,0,4,1,1,2
+I1,20/08/2022,AwayTeam,Lazio,0,0,1,0,0,4,1,1,2
+I1,20/08/2022,HomeTeam,Udinese,0,0,1,0,0,1,-2,0,2
+I1,20/08/2022,AwayTeam,Salernitana,0,0,1,0,0,1,-1,0,2
+I1,20/08/2022,HomeTeam,Inter,3,0,3,1,3,6,4,2,2
+I1,20/08/2022,AwayTeam,Spezia,0,3,0,0,-3,3,-2,1,2
+I1,20/08/2022,HomeTeam,Sassuolo,1,0,3,1,1,3,-2,1,2
+I1,20/08/2022,AwayTeam,Lecce,0,1,0,0,-1,0,-2,0,2
+I1,21/08/2022,HomeTeam,Empoli,0,0,1,0,0,1,-1,0,2
+I1,21/08/2022,AwayTeam,Fiorentina,0,0,1,0,0,4,1,1,2
+I1,21/08/2022,HomeTeam,Napoli,4,0,3,1,4,6,7,2,2
+I1,21/08/2022,AwayTeam,Monza,0,4,0,0,-4,0,-5,0,2
+I1,21/08/2022,HomeTeam,Atalanta,1,1,1,0,0,4,2,1,2
+I1,21/08/2022,AwayTeam,Milan,1,1,1,0,0,4,2,1,2
+I1,21/08/2022,HomeTeam,Bologna,1,1,1,0,0,1,-1,0,2
+I1,21/08/2022,AwayTeam,Verona,1,1,1,0,0,1,-3,0,2
+Liga 1,15/07/2022,Home,FC Hermannstadt,3,0,3,1,3,3,3,1,1
+Liga 1,15/07/2022,Away,Mioveni,0,3,0,0,-3,0,-3,0,1
+Liga 1,15/07/2022,Home,Univ. Craiova,2,2,1,0,0,1,0,0,1
+Liga 1,15/07/2022,Away,Sepsi Sf. Gheorghe,2,2,1,0,0,1,0,0,1
+Liga 1,16/07/2022,Home,FC Arges,2,0,3,1,2,3,2,1,1
+Liga 1,16/07/2022,Away,UTA Arad,0,2,0,0,-2,0,-2,0,1
+Liga 1,16/07/2022,Home,CFR Cluj,1,0,3,1,1,3,1,1,1
+Liga 1,16/07/2022,Away,FC Rapid Bucuresti,0,1,0,0,-1,0,-1,0,1
+Liga 1,17/07/2022,Home,Farul Constanta,2,1,3,1,1,3,1,1,1
+Liga 1,17/07/2022,Away,U Craiova 1948,1,2,0,0,-1,0,-1,0,1
+Liga 1,17/07/2022,Home,FCSB,1,1,1,0,0,1,0,0,1
+Liga 1,17/07/2022,Away,U. Cluj,1,1,1,0,0,1,0,0,1
+Liga 1,18/07/2022,Home,FC Botosani,3,2,3,1,1,3,1,1,1
+Liga 1,18/07/2022,Away,Chindia Targoviste,2,3,0,0,-1,0,-1,0,1
+Liga 1,18/07/2022,Home,Petrolul,0,1,0,0,-1,0,-1,0,1
+Liga 1,18/07/2022,Away,FC Voluntari,1,0,3,1,1,3,1,1,1
+Liga 1,22/07/2022,Home,Mioveni,0,2,0,0,-2,0,-5,0,2
+Liga 1,22/07/2022,Away,Farul Constanta,2,0,3,1,2,6,3,2,2
+Liga 1,23/07/2022,Home,FC Voluntari,0,1,0,0,-1,3,0,1,2
+Liga 1,23/07/2022,Away,FC Botosani,1,0,3,1,1,6,2,2,2
+Liga 1,24/07/2022,Home,Sepsi Sf. Gheorghe,4,0,3,1,4,4,4,1,2
+Liga 1,24/07/2022,Away,FC Arges,0,4,0,0,-4,3,-2,1,2
+Liga 1,24/07/2022,Home,U Craiova 1948,3,1,3,1,2,3,1,1,2
+Liga 1,24/07/2022,Away,CFR Cluj,1,3,0,0,-2,3,-1,1,2
+Liga 1,24/07/2022,Home,U. Cluj,1,1,1,0,0,2,0,0,2
+Liga 1,24/07/2022,Away,Univ. Craiova,1,1,1,0,0,2,0,0,2
+Liga 1,24/07/2022,Home,FC Rapid Bucuresti,2,0,3,1,2,3,1,1,2
+Liga 1,24/07/2022,Away,FCSB,0,2,0,0,-2,1,-2,0,2
+Liga 1,25/07/2022,Home,Chindia Targoviste,1,1,1,0,0,1,-1,0,2
+Liga 1,25/07/2022,Away,FC Hermannstadt,1,1,1,0,0,4,3,1,2
+Liga 1,25/07/2022,Home,UTA Arad,2,0,3,1,2,3,0,1,2
+Liga 1,25/07/2022,Away,Petrolul,0,2,0,0,-2,0,-3,0,2
+Liga 1,29/07/2022,Home,FC Arges,3,1,3,1,2,6,0,2,3
+Liga 1,29/07/2022,Away,U. Cluj,1,3,0,0,-2,2,-2,0,3
+Liga 1,29/07/2022,Home,Farul Constanta,0,0,1,0,0,7,3,2,3
+Liga 1,29/07/2022,Away,Chindia Targoviste,0,0,1,0,0,2,-1,0,3
+Liga 1,30/07/2022,Home,FC Voluntari,3,0,3,1,3,6,3,2,3
+Liga 1,30/07/2022,Away,UTA Arad,0,3,0,0,-3,3,-3,1,3
+Liga 1,30/07/2022,Home,CFR Cluj,4,2,3,1,2,6,1,2,3
+Liga 1,30/07/2022,Away,Mioveni,2,4,0,0,-2,0,-7,0,3
+Liga 1,31/07/2022,Home,Petrolul,1,1,1,0,0,1,-3,0,3
+Liga 1,31/07/2022,Away,Sepsi Sf. Gheorghe,1,1,1,0,0,5,4,1,3
+Liga 1,31/07/2022,Home,Univ. Craiova,0,1,0,0,-1,2,-1,0,3
+Liga 1,31/07/2022,Away,FC Rapid Bucuresti,1,0,3,1,1,6,2,2,3
+Liga 1,31/07/2022,Home,FCSB,1,1,1,0,0,2,-2,0,3
+Liga 1,31/07/2022,Away,U Craiova 1948,1,1,1,0,0,4,1,1,3
+Liga 1,01/08/2022,Home,FC Hermannstadt,1,1,1,0,0,5,3,1,3
+Liga 1,01/08/2022,Away,FC Botosani,1,1,1,0,0,7,2,2,3
+Liga 1,05/08/2022,Home,U. Cluj,0,1,0,0,-1,2,-3,0,4
+Liga 1,05/08/2022,Away,Petrolul,1,0,3,1,1,4,-2,1,4
+Liga 1,06/08/2022,Home,Mioveni,1,1,1,0,0,1,-7,0,4
+Liga 1,06/08/2022,Away,FCSB,1,1,1,0,0,3,-2,0,4
+Liga 1,06/08/2022,Home,FC Rapid Bucuresti,2,1,3,1,1,9,3,3,4
+Liga 1,06/08/2022,Away,FC Arges,1,2,0,0,-1,6,-1,2,4
+Liga 1,07/08/2022,Home,Sepsi Sf. Gheorghe,0,0,1,0,0,6,4,1,4
+Liga 1,07/08/2022,Away,UTA Arad,0,0,1,0,0,4,-3,1,4
+Liga 1,07/08/2022,Home,Chindia Targoviste,0,2,0,0,-2,2,-3,0,4
+Liga 1,07/08/2022,Away,CFR Cluj,2,0,3,1,2,9,3,3,4
+Liga 1,07/08/2022,Home,U Craiova 1948,1,2,0,0,-1,4,0,1,4
+Liga 1,07/08/2022,Away,Univ. Craiova,2,1,3,1,1,5,0,1,4
+Liga 1,08/08/2022,Home,FC Hermannstadt,2,1,3,1,1,8,4,2,4
+Liga 1,08/08/2022,Away,FC Voluntari,1,2,0,0,-1,6,2,2,4
+Liga 1,08/08/2022,Home,FC Botosani,1,1,1,0,0,8,2,2,4
+Liga 1,08/08/2022,Away,Farul Constanta,1,1,1,0,0,8,3,2,4
+Liga 1,12/08/2022,Home,FC Arges,0,2,0,0,-2,6,-3,2,5
+Liga 1,12/08/2022,Away,U Craiova 1948,2,0,3,1,2,7,2,2,5
+Liga 1,13/08/2022,Home,UTA Arad,2,1,3,1,1,7,-2,2,5
+Liga 1,13/08/2022,Away,U. Cluj,1,2,0,0,-1,2,-4,0,5
+Liga 1,13/08/2022,Home,Petrolul,1,0,3,1,1,7,-1,2,5
+Liga 1,13/08/2022,Away,FC Rapid Bucuresti,0,1,0,0,-1,9,2,3,5
+Liga 1,14/08/2022,Home,Univ. Craiova,1,0,3,1,1,8,1,2,5
+Liga 1,14/08/2022,Away,Mioveni,0,1,0,0,-1,1,-8,0,5
+Liga 1,14/08/2022,Home,CFR Cluj,0,1,0,0,-1,9,2,3,5
+Liga 1,14/08/2022,Away,FC Botosani,1,0,3,1,1,11,3,3,5
+Liga 1,14/08/2022,Home,FCSB,3,2,3,1,1,6,-1,1,5
+Liga 1,14/08/2022,Away,Chindia Targoviste,2,3,0,0,-1,2,-4,0,5
+Liga 1,15/08/2022,Home,FC Voluntari,0,0,1,0,0,7,2,2,5
+Liga 1,15/08/2022,Away,Sepsi Sf. Gheorghe,0,0,1,0,0,7,4,1,5
+Liga 1,15/08/2022,Home,Farul Constanta,0,0,1,0,0,9,3,2,5
+Liga 1,15/08/2022,Away,FC Hermannstadt,0,0,1,0,0,9,4,2,5
+MLS,26/02/2022,Home,Philadelphia Union,1,1,1,0,0,1,0,0,1
+MLS,26/02/2022,Away,Minnesota United,1,1,1,0,0,1,0,0,1
+MLS,26/02/2022,Home,Columbus Crew,4,0,3,1,4,3,4,1,1
+MLS,26/02/2022,Away,Vancouver Whitecaps,0,4,0,0,-4,0,-4,0,1
+MLS,26/02/2022,Home,Los Angeles FC,3,0,3,1,3,3,3,1,1
+MLS,26/02/2022,Away,Colorado Rapids,0,3,0,0,-3,0,-3,0,1
+MLS,26/02/2022,Home,FC Dallas,1,1,1,0,0,1,0,0,1
+MLS,26/02/2022,Away,Toronto FC,1,1,1,0,0,1,0,0,1
+MLS,26/02/2022,Home,Austin FC,5,0,3,1,5,3,5,1,1
+MLS,26/02/2022,Away,FC Cincinnati,0,5,0,0,-5,0,-5,0,1
+MLS,26/02/2022,Home,DC United,3,0,3,1,3,3,3,1,1
+MLS,26/02/2022,Away,Charlotte,0,3,0,0,-3,0,-3,0,1
+MLS,26/02/2022,Home,Inter Miami,0,0,1,0,0,1,0,0,1
+MLS,26/02/2022,Away,Chicago Fire,0,0,1,0,0,1,0,0,1
+MLS,26/02/2022,Home,San Jose Earthquakes,1,3,0,0,-2,0,-2,0,1
+MLS,26/02/2022,Away,New York Red Bulls,3,1,3,1,2,3,2,1,1
+MLS,27/02/2022,Home,Portland Timbers,2,2,1,0,0,1,0,0,1
+MLS,27/02/2022,Away,New England Revolution,2,2,1,0,0,1,0,0,1
+MLS,27/02/2022,Home,Orlando City,2,0,3,1,2,3,2,1,1
+MLS,27/02/2022,Away,CF Montreal,0,2,0,0,-2,0,-2,0,1
+MLS,27/02/2022,Home,Atlanta Utd,3,1,3,1,2,3,2,1,1
+MLS,27/02/2022,Away,Sporting Kansas City,1,3,0,0,-2,0,-2,0,1
+MLS,27/02/2022,Home,Los Angeles Galaxy,1,0,3,1,1,3,1,1,1
+MLS,27/02/2022,Away,New York City,0,1,0,0,-1,0,-1,0,1
+MLS,28/02/2022,Home,Houston Dynamo,0,0,1,0,0,1,0,0,1
+MLS,28/02/2022,Away,Real Salt Lake,0,0,1,0,0,1,0,0,1
+MLS,28/02/2022,Home,Seattle Sounders,0,1,0,0,-1,0,-1,0,1
+MLS,28/02/2022,Away,Nashville SC,1,0,3,1,1,3,1,1,1
+MLS,05/03/2022,Home,New England Revolution,1,0,3,1,1,4,1,1,2
+MLS,05/03/2022,Away,FC Dallas,0,1,0,0,-1,1,-1,0,2
+MLS,05/03/2022,Home,Toronto FC,1,4,0,0,-3,1,-3,0,2
+MLS,05/03/2022,Away,New York Red Bulls,4,1,3,1,3,6,5,2,2
+MLS,05/03/2022,Home,Sporting Kansas City,1,0,3,1,1,3,-1,1,2
+MLS,05/03/2022,Away,Houston Dynamo,0,1,0,0,-1,1,-1,0,2
+MLS,05/03/2022,Home,CF Montreal,1,2,0,0,-1,0,-3,0,2
+MLS,05/03/2022,Away,Philadelphia Union,2,1,3,1,1,4,1,1,2
+MLS,05/03/2022,Home,San Jose Earthquakes,3,3,1,0,0,1,-2,0,2
+MLS,05/03/2022,Away,Columbus Crew,3,3,1,0,0,4,4,1,2
+MLS,05/03/2022,Home,Chicago Fire,0,0,1,0,0,2,0,0,2
+MLS,05/03/2022,Away,Orlando City,0,0,1,0,0,4,2,1,2
+MLS,05/03/2022,Home,Colorado Rapids,3,0,3,1,3,3,0,1,2
+MLS,05/03/2022,Away,Atlanta Utd,0,3,0,0,-3,3,-1,1,2
+MLS,05/03/2022,Home,FC Cincinnati,0,1,0,0,-1,0,-6,0,2
+MLS,05/03/2022,Away,DC United,1,0,3,1,1,6,4,2,2
+MLS,05/03/2022,Home,Minnesota United,1,1,1,0,0,2,0,0,2
+MLS,05/03/2022,Away,Nashville SC,1,1,1,0,0,4,1,1,2
+MLS,05/03/2022,Home,Real Salt Lake,1,0,3,1,1,4,1,1,2
+MLS,05/03/2022,Away,Seattle Sounders,0,1,0,0,-1,0,-2,0,2
+MLS,05/03/2022,Home,Vancouver Whitecaps,0,0,1,0,0,1,-4,0,2
+MLS,05/03/2022,Away,New York City,0,0,1,0,0,1,-1,0,2
+MLS,06/03/2022,Home,Charlotte,0,1,0,0,-1,0,-4,0,2
+MLS,06/03/2022,Away,Los Angeles Galaxy,1,0,3,1,1,6,2,2,2
+MLS,06/03/2022,Home,Austin FC,5,1,3,1,4,6,9,2,2
+MLS,06/03/2022,Away,Inter Miami,1,5,0,0,-4,1,-4,0,2
+MLS,07/03/2022,Home,Los Angeles FC,1,1,1,0,0,4,3,1,2
+MLS,07/03/2022,Away,Portland Timbers,1,1,1,0,0,2,0,0,2
+MLS,12/03/2022,Home,New York City,4,1,3,1,3,4,2,1,3
+MLS,12/03/2022,Away,CF Montreal,1,4,0,0,-3,0,-6,0,3
+MLS,12/03/2022,Home,Columbus Crew,2,1,3,1,1,7,5,2,3
+MLS,12/03/2022,Away,Toronto FC,1,2,0,0,-1,1,-4,0,3
+MLS,12/03/2022,Home,Inter Miami,0,2,0,0,-2,1,-6,0,3
+MLS,12/03/2022,Away,Los Angeles FC,2,0,3,1,2,7,5,2,3
+MLS,12/03/2022,Home,Seattle Sounders,3,2,3,1,1,3,-1,1,3
+MLS,12/03/2022,Away,Los Angeles Galaxy,2,3,0,0,-1,6,1,2,3
+MLS,12/03/2022,Home,Houston Dynamo,2,1,3,1,1,4,0,1,3
+MLS,12/03/2022,Away,Vancouver Whitecaps,1,2,0,0,-1,1,-5,0,3
+MLS,13/03/2022,Home,DC United,0,2,0,0,-2,6,2,2,3
+MLS,13/03/2022,Away,Chicago Fire,2,0,3,1,2,5,2,1,3
+MLS,13/03/2022,Home,New England Revolution,2,3,0,0,-1,4,0,1,3
+MLS,13/03/2022,Away,Real Salt Lake,3,2,3,1,1,7,2,2,3
+MLS,13/03/2022,Home,Orlando City,1,2,0,0,-1,4,1,1,3
+MLS,13/03/2022,Away,FC Cincinnati,2,1,3,1,1,3,-5,1,3
+MLS,13/03/2022,Home,Philadelphia Union,2,0,3,1,2,7,3,2,3
+MLS,13/03/2022,Away,San Jose Earthquakes,0,2,0,0,-2,1,-4,0,3
+MLS,13/03/2022,Home,FC Dallas,2,0,3,1,2,4,1,1,3
+MLS,13/03/2022,Away,Nashville SC,0,2,0,0,-2,4,-1,1,3
+MLS,13/03/2022,Home,Colorado Rapids,2,0,3,1,2,6,2,2,3
+MLS,13/03/2022,Away,Sporting Kansas City,0,2,0,0,-2,3,-3,1,3
+MLS,13/03/2022,Home,Portland Timbers,1,0,3,1,1,5,1,1,3
+MLS,13/03/2022,Away,Austin FC,0,1,0,0,-1,6,8,2,3
+MLS,13/03/2022,Home,Atlanta Utd,2,1,3,1,1,6,0,2,3
+MLS,13/03/2022,Away,Charlotte,1,2,0,0,-1,0,-5,0,3
+MLS,13/03/2022,Home,New York Red Bulls,0,1,0,0,-1,6,4,2,3
+MLS,13/03/2022,Away,Minnesota United,1,0,3,1,1,5,1,1,3
+MLS,19/03/2022,Home,FC Cincinnati,3,1,3,1,2,6,-3,2,4
+MLS,19/03/2022,Away,Inter Miami,1,3,0,0,-2,1,-8,0,4
+MLS,19/03/2022,Home,New York City,0,2,0,0,-2,4,0,1,4
+MLS,19/03/2022,Away,Philadelphia Union,2,0,3,1,2,10,5,3,4
+MLS,19/03/2022,Home,Toronto FC,2,1,3,1,1,4,-3,1,4
+MLS,19/03/2022,Away,DC United,1,2,0,0,-1,6,1,2,4
+MLS,19/03/2022,Home,Los Angeles Galaxy,0,1,0,0,-1,6,0,2,4
+MLS,19/03/2022,Away,Orlando City,1,0,3,1,1,7,2,2,4
+MLS,19/03/2022,Home,Atlanta Utd,3,3,1,0,0,7,0,2,4
+MLS,19/03/2022,Away,CF Montreal,3,3,1,0,0,1,-6,0,4
+MLS,19/03/2022,Home,Chicago Fire,3,1,3,1,2,8,4,2,4
+MLS,19/03/2022,Away,Sporting Kansas City,1,3,0,0,-2,3,-5,1,4
+MLS,19/03/2022,Home,Charlotte,3,1,3,1,2,3,-3,1,4
+MLS,19/03/2022,Away,New England Revolution,1,3,0,0,-2,4,-2,1,4
+MLS,20/03/2022,Home,Minnesota United,1,0,3,1,1,8,2,2,4
+MLS,20/03/2022,Away,San Jose Earthquakes,0,1,0,0,-1,1,-5,0,4
+MLS,20/03/2022,Home,FC Dallas,4,1,3,1,3,7,4,2,4
+MLS,20/03/2022,Away,Portland Timbers,1,4,0,0,-3,5,-2,1,4
+MLS,20/03/2022,Home,Houston Dynamo,1,1,1,0,0,5,0,1,4
+MLS,20/03/2022,Away,Colorado Rapids,1,1,1,0,0,7,2,2,4
+MLS,20/03/2022,Home,Real Salt Lake,2,1,3,1,1,10,3,3,4
+MLS,20/03/2022,Away,Nashville SC,1,2,0,0,-1,4,-2,1,4
+MLS,20/03/2022,Home,New York Red Bulls,1,1,1,0,0,7,4,2,4
+MLS,20/03/2022,Away,Columbus Crew,1,1,1,0,0,8,5,2,4
+MLS,20/03/2022,Home,Austin FC,1,1,1,0,0,7,8,2,4
+MLS,20/03/2022,Away,Seattle Sounders,1,1,1,0,0,4,-1,1,4
+MLS,21/03/2022,Home,Los Angeles FC,3,1,3,1,2,10,7,3,4
+MLS,21/03/2022,Away,Vancouver Whitecaps,1,3,0,0,-2,1,-7,0,4
+MLS,26/03/2022,Home,Charlotte,2,0,3,1,2,6,-1,2,5
+MLS,26/03/2022,Away,FC Cincinnati,0,2,0,0,-2,6,-5,2,5
+MLS,26/03/2022,Home,Sporting Kansas City,1,0,3,1,1,6,-4,2,5
+MLS,26/03/2022,Away,Real Salt Lake,0,1,0,0,-1,10,2,3,5
+MLS,27/03/2022,Home,Portland Timbers,1,1,1,0,0,6,-2,1,5
+MLS,27/03/2022,Away,Orlando City,1,1,1,0,0,8,2,2,5
+MLS,02/04/2022,Home,Chicago Fire,0,0,1,0,0,9,4,2,5
+MLS,02/04/2022,Away,FC Dallas,0,0,1,0,0,8,4,2,5
+MLS,02/04/2022,Home,FC Cincinnati,3,4,0,0,-1,6,-6,2,6
+MLS,02/04/2022,Away,CF Montreal,4,3,3,1,1,4,-5,1,5
+MLS,02/04/2022,Home,Toronto FC,2,1,3,1,1,7,-2,2,5
+MLS,02/04/2022,Away,New York City,1,2,0,0,-1,4,-1,1,5
+MLS,02/04/2022,Home,Columbus Crew,0,1,0,0,-1,8,4,2,5
+MLS,02/04/2022,Away,Nashville SC,1,0,3,1,1,7,-1,2,5
+MLS,03/04/2022,Home,DC United,0,1,0,0,-1,6,0,2,5
+MLS,03/04/2022,Away,Atlanta Utd,1,0,3,1,1,10,1,3,5
+MLS,03/04/2022,Home,New England Revolution,0,1,0,0,-1,4,-3,1,5
+MLS,03/04/2022,Away,New York Red Bulls,1,0,3,1,1,10,5,3,5
+MLS,03/04/2022,Home,Orlando City,2,4,0,0,-2,8,0,2,6
+MLS,03/04/2022,Away,Los Angeles FC,4,2,3,1,2,13,9,4,5
+MLS,03/04/2022,Home,Philadelphia Union,2,0,3,1,2,13,7,4,5
+MLS,03/04/2022,Away,Charlotte,0,2,0,0,-2,6,-3,2,6
+MLS,03/04/2022,Home,San Jose Earthquakes,2,2,1,0,0,2,-5,0,5
+MLS,03/04/2022,Away,Austin FC,2,2,1,0,0,8,8,2,5
+MLS,03/04/2022,Home,Inter Miami,1,3,0,0,-2,1,-10,0,5
+MLS,03/04/2022,Away,Houston Dynamo,3,1,3,1,2,8,2,2,5
+MLS,03/04/2022,Home,Minnesota United,1,2,0,0,-1,8,1,2,5
+MLS,03/04/2022,Away,Seattle Sounders,2,1,3,1,1,7,0,2,5
+MLS,03/04/2022,Home,Vancouver Whitecaps,1,0,3,1,1,4,-6,1,5
+MLS,03/04/2022,Away,Sporting Kansas City,0,1,0,0,-1,6,-5,2,6
+MLS,03/04/2022,Home,Colorado Rapids,1,1,1,0,0,8,2,2,5
+MLS,03/04/2022,Away,Real Salt Lake,1,1,1,0,0,11,2,3,6
+MLS,03/04/2022,Home,Portland Timbers,1,3,0,0,-2,6,-4,1,6
+MLS,03/04/2022,Away,Los Angeles Galaxy,3,1,3,1,2,9,2,3,5
+MLS,09/04/2022,Home,Orlando City,1,0,3,1,1,11,1,3,7
+MLS,09/04/2022,Away,Chicago Fire,0,1,0,0,-1,9,3,2,6
+MLS,09/04/2022,Home,Inter Miami,3,2,3,1,1,4,-9,1,6
+MLS,09/04/2022,Away,New England Revolution,2,3,0,0,-1,4,-4,1,6
+MLS,09/04/2022,Home,New York Red Bulls,1,2,0,0,-1,10,4,3,6
+MLS,09/04/2022,Away,CF Montreal,2,1,3,1,1,7,-4,2,6
+MLS,09/04/2022,Home,Philadelphia Union,1,0,3,1,1,16,8,5,6
+MLS,09/04/2022,Away,Columbus Crew,0,1,0,0,-1,8,3,2,6
+MLS,10/04/2022,Home,Los Angeles Galaxy,2,1,3,1,1,12,3,4,6
+MLS,10/04/2022,Away,Los Angeles FC,1,2,0,0,-1,13,8,4,6
+MLS,10/04/2022,Home,Real Salt Lake,2,2,1,0,0,12,2,3,7
+MLS,10/04/2022,Away,Toronto FC,2,2,1,0,0,8,-2,2,6
+MLS,10/04/2022,Home,FC Dallas,3,1,3,1,2,11,6,3,6
+MLS,10/04/2022,Away,Colorado Rapids,1,3,0,0,-2,8,0,2,6
+MLS,10/04/2022,Home,Houston Dynamo,4,3,3,1,1,11,3,3,6
+MLS,10/04/2022,Away,San Jose Earthquakes,3,4,0,0,-1,2,-6,0,6
+MLS,10/04/2022,Home,Sporting Kansas City,1,2,0,0,-1,6,-6,2,7
+MLS,10/04/2022,Away,Nashville SC,2,1,3,1,1,10,0,3,6
+MLS,10/04/2022,Home,Vancouver Whitecaps,2,3,0,0,-1,4,-7,1,6
+MLS,10/04/2022,Away,Portland Timbers,3,2,3,1,1,9,-3,2,7
+MLS,10/04/2022,Home,Charlotte,1,0,3,1,1,9,-2,3,7
+MLS,10/04/2022,Away,Atlanta Utd,0,1,0,0,-1,10,0,3,6
+MLS,11/04/2022,Home,Austin FC,1,0,3,1,1,11,9,3,6
+MLS,11/04/2022,Away,Minnesota United,0,1,0,0,-1,8,0,2,6
+MLS,16/04/2022,Home,CF Montreal,2,1,3,1,1,10,-3,3,7
+MLS,16/04/2022,Away,Vancouver Whitecaps,1,2,0,0,-1,4,-8,1,7
+MLS,16/04/2022,Home,San Jose Earthquakes,2,2,1,0,0,3,-6,0,7
+MLS,16/04/2022,Away,Nashville SC,2,2,1,0,0,11,0,3,7
+MLS,16/04/2022,Home,Atlanta Utd,0,0,1,0,0,11,0,3,7
+MLS,16/04/2022,Away,FC Cincinnati,0,0,1,0,0,7,-6,2,7
+MLS,16/04/2022,Home,Houston Dynamo,0,0,1,0,0,12,3,3,7
+MLS,16/04/2022,Away,Portland Timbers,0,0,1,0,0,10,-3,2,8
+MLS,17/04/2022,Home,New York Red Bulls,0,0,1,0,0,11,4,3,7
+MLS,17/04/2022,Away,FC Dallas,0,0,1,0,0,12,6,3,7
+MLS,17/04/2022,Home,Columbus Crew,0,2,0,0,-2,8,1,2,7
+MLS,17/04/2022,Away,Orlando City,2,0,3,1,2,14,3,4,8
+MLS,17/04/2022,Home,DC United,2,3,0,0,-1,6,-1,2,6
+MLS,17/04/2022,Away,Austin FC,3,2,3,1,1,14,10,4,7
+MLS,17/04/2022,Home,New England Revolution,2,1,3,1,1,7,-3,2,7
+MLS,17/04/2022,Away,Charlotte,1,2,0,0,-1,9,-3,3,8
+MLS,17/04/2022,Home,Toronto FC,2,1,3,1,1,11,-1,3,7
+MLS,17/04/2022,Away,Philadelphia Union,1,2,0,0,-1,16,7,5,7
+MLS,17/04/2022,Home,Chicago Fire,0,0,1,0,0,10,3,2,7
+MLS,17/04/2022,Away,Los Angeles Galaxy,0,0,1,0,0,13,3,4,7
+MLS,17/04/2022,Home,Minnesota United,3,1,3,1,2,11,2,3,7
+MLS,17/04/2022,Away,Colorado Rapids,1,3,0,0,-2,8,-2,2,7
+MLS,17/04/2022,Home,Seattle Sounders,0,1,0,0,-1,7,-1,2,6
+MLS,17/04/2022,Away,Inter Miami,1,0,3,1,1,7,-8,2,7
+MLS,17/04/2022,Home,New York City,6,0,3,1,6,7,5,2,6
+MLS,17/04/2022,Away,Real Salt Lake,0,6,0,0,-6,12,-4,3,8
+MLS,17/04/2022,Home,Los Angeles FC,3,1,3,1,2,16,10,5,7
+MLS,17/04/2022,Away,Sporting Kansas City,1,3,0,0,-2,6,-8,2,8
+MLS,23/04/2022,Home,FC Dallas,2,1,3,1,1,15,7,4,8
+MLS,23/04/2022,Away,Houston Dynamo,1,2,0,0,-1,12,2,3,8
+MLS,23/04/2022,Home,Philadelphia Union,1,1,1,0,0,17,7,5,8
+MLS,23/04/2022,Away,CF Montreal,1,1,1,0,0,11,-3,3,8
+MLS,23/04/2022,Home,Minnesota United,3,0,3,1,3,14,5,4,8
+MLS,23/04/2022,Away,Chicago Fire,0,3,0,0,-3,10,0,2,8
+MLS,24/04/2022,Home,DC United,3,2,3,1,1,9,0,3,7
+MLS,24/04/2022,Away,New England Revolution,2,3,0,0,-1,7,-4,2,8
+MLS,24/04/2022,Home,Austin FC,3,0,3,1,3,17,13,5,8
+MLS,24/04/2022,Away,Vancouver Whitecaps,0,3,0,0,-3,4,-11,1,8
+MLS,24/04/2022,Home,Sporting Kansas City,0,0,1,0,0,7,-8,2,9
+MLS,24/04/2022,Away,Columbus Crew,0,0,1,0,0,9,1,2,8
+MLS,24/04/2022,Home,Colorado Rapids,0,0,1,0,0,9,-2,2,8
+MLS,24/04/2022,Away,Charlotte,0,0,1,0,0,10,-3,3,9
+MLS,24/04/2022,Home,Portland Timbers,0,0,1,0,0,11,-3,2,9
+MLS,24/04/2022,Away,Real Salt Lake,0,0,1,0,0,13,-4,3,9
+MLS,24/04/2022,Home,San Jose Earthquakes,4,3,3,1,1,6,-5,1,8
+MLS,24/04/2022,Away,Seattle Sounders,3,4,0,0,-1,7,-2,2,7
+MLS,24/04/2022,Home,Los Angeles Galaxy,1,0,3,1,1,16,4,5,8
+MLS,24/04/2022,Away,Nashville SC,0,1,0,0,-1,11,-1,3,8
+MLS,24/04/2022,Home,Inter Miami,2,1,3,1,1,10,-7,3,8
+MLS,24/04/2022,Away,Atlanta Utd,1,2,0,0,-1,11,-1,3,8
+MLS,24/04/2022,Home,Orlando City,0,3,0,0,-3,14,0,4,9
+MLS,24/04/2022,Away,New York Red Bulls,3,0,3,1,3,14,7,4,8
+MLS,24/04/2022,Home,FC Cincinnati,1,2,0,0,-1,7,-7,2,8
+MLS,24/04/2022,Away,Los Angeles FC,2,1,3,1,1,19,11,6,8
+MLS,24/04/2022,Home,New York City,5,4,3,1,1,10,6,3,7
+MLS,24/04/2022,Away,Toronto FC,4,5,0,0,-1,11,-2,3,8
+MLS,30/04/2022,Home,Houston Dynamo,1,2,0,0,-1,12,1,3,9
+MLS,30/04/2022,Away,Austin FC,2,1,3,1,1,20,14,6,9
+MLS,30/04/2022,Home,Toronto FC,1,2,0,0,-1,11,-3,3,9
+MLS,30/04/2022,Away,FC Cincinnati,2,1,3,1,1,10,-6,3,9
+MLS,30/04/2022,Home,Real Salt Lake,1,0,3,1,1,16,-3,4,10
+MLS,30/04/2022,Away,Los Angeles Galaxy,0,1,0,0,-1,16,3,5,9
+MLS,30/04/2022,Home,CF Montreal,2,1,3,1,1,14,-2,4,9
+MLS,30/04/2022,Away,Atlanta Utd,1,2,0,0,-1,11,-2,3,9
+MLS,01/05/2022,Home,Columbus Crew,3,0,3,1,3,12,4,3,9
+MLS,01/05/2022,Away,DC United,0,3,0,0,-3,9,-3,3,8
+MLS,01/05/2022,Home,New England Revolution,2,0,3,1,2,10,-2,3,9
+MLS,01/05/2022,Away,Inter Miami,0,2,0,0,-2,10,-9,3,9
+MLS,01/05/2022,Home,Orlando City,2,1,3,1,1,17,1,5,10
+MLS,01/05/2022,Away,Charlotte,1,2,0,0,-1,10,-4,3,10
+MLS,01/05/2022,Home,Chicago Fire,1,2,0,0,-1,10,-1,2,9
+MLS,01/05/2022,Away,New York Red Bulls,2,1,3,1,1,17,8,5,9
+MLS,01/05/2022,Home,Sporting Kansas City,2,2,1,0,0,8,-8,2,10
+MLS,01/05/2022,Away,FC Dallas,2,2,1,0,0,16,7,4,9
+MLS,01/05/2022,Home,Colorado Rapids,2,0,3,1,2,12,0,3,9
+MLS,01/05/2022,Away,Portland Timbers,0,2,0,0,-2,11,-5,2,10
+MLS,01/05/2022,Home,New York City,3,0,3,1,3,13,9,4,8
+MLS,01/05/2022,Away,San Jose Earthquakes,0,3,0,0,-3,6,-8,1,9
+MLS,01/05/2022,Home,Nashville SC,1,1,1,0,0,12,-1,3,9
+MLS,01/05/2022,Away,Philadelphia Union,1,1,1,0,0,18,7,5,9
+MLS,02/05/2022,Home,Los Angeles FC,2,0,3,1,2,22,13,7,9
+MLS,02/05/2022,Away,Minnesota United,0,2,0,0,-2,14,3,4,9
+MLS,05/05/2022,Home,FC Cincinnati,2,0,3,1,2,13,-4,4,10
+MLS,05/05/2022,Away,Toronto FC,0,2,0,0,-2,11,-5,3,10
+MLS,07/05/2022,Home,Charlotte,1,0,3,1,1,13,-3,4,11
+MLS,07/05/2022,Away,Inter Miami,0,1,0,0,-1,10,-10,3,10
+MLS,07/05/2022,Home,CF Montreal,4,1,3,1,3,17,1,5,10
+MLS,07/05/2022,Away,Orlando City,1,4,0,0,-3,17,-2,5,11
+MLS,07/05/2022,Home,Atlanta Utd,4,1,3,1,3,14,1,4,10
+MLS,07/05/2022,Away,Chicago Fire,1,4,0,0,-3,10,-4,2,10
+MLS,08/05/2022,Home,New York City,0,0,1,0,0,14,9,4,9
+MLS,08/05/2022,Away,Sporting Kansas City,0,0,1,0,0,9,-8,2,11
+MLS,08/05/2022,Home,New York Red Bulls,1,1,1,0,0,18,8,5,10
+MLS,08/05/2022,Away,Portland Timbers,1,1,1,0,0,12,-5,2,11
+MLS,08/05/2022,Home,DC United,2,0,3,1,2,12,-1,4,9
+MLS,08/05/2022,Away,Houston Dynamo,0,2,0,0,-2,12,-1,3,10
+MLS,08/05/2022,Home,New England Revolution,2,2,1,0,0,11,-2,3,10
+MLS,08/05/2022,Away,Columbus Crew,2,2,1,0,0,13,4,3,10
+MLS,08/05/2022,Home,Minnesota United,0,1,0,0,-1,14,2,4,10
+MLS,08/05/2022,Away,FC Cincinnati,1,0,3,1,1,16,-3,5,11
+MLS,08/05/2022,Home,FC Dallas,2,0,3,1,2,19,9,5,10
+MLS,08/05/2022,Away,Seattle Sounders,0,2,0,0,-2,7,-4,2,8
+MLS,08/05/2022,Home,San Jose Earthquakes,1,0,3,1,1,9,-7,2,10
+MLS,08/05/2022,Away,Colorado Rapids,0,1,0,0,-1,12,-1,3,10
+MLS,08/05/2022,Home,Los Angeles FC,2,2,1,0,0,23,13,7,10
+MLS,08/05/2022,Away,Philadelphia Union,2,2,1,0,0,19,7,5,10
+MLS,08/05/2022,Home,Vancouver Whitecaps,1,0,3,1,1,7,-10,2,9
+MLS,08/05/2022,Away,Toronto FC,0,1,0,0,-1,11,-6,3,11
+MLS,08/05/2022,Home,Nashville SC,2,0,3,1,2,15,1,4,10
+MLS,08/05/2022,Away,Real Salt Lake,0,2,0,0,-2,16,-5,4,11
+MLS,09/05/2022,Home,Austin FC,0,1,0,0,-1,20,13,6,10
+MLS,09/05/2022,Away,Los Angeles Galaxy,1,0,3,1,1,19,4,6,10
+MLS,14/05/2022,Home,Toronto FC,0,1,0,0,-1,11,-7,3,12
+MLS,14/05/2022,Away,Orlando City,1,0,3,1,1,20,-1,6,12
+MLS,14/05/2022,Home,Colorado Rapids,2,0,3,1,2,15,1,4,11
+MLS,14/05/2022,Away,Los Angeles FC,0,2,0,0,-2,23,11,7,11
+MLS,15/05/2022,Home,Charlotte,0,2,0,0,-2,13,-5,4,12
+MLS,15/05/2022,Away,CF Montreal,2,0,3,1,2,20,3,6,11
+MLS,15/05/2022,Home,New York City,2,0,3,1,2,17,11,5,10
+MLS,15/05/2022,Away,Columbus Crew,0,2,0,0,-2,13,2,3,11
+MLS,15/05/2022,Home,Vancouver Whitecaps,3,3,1,0,0,8,-10,2,10
+MLS,15/05/2022,Away,San Jose Earthquakes,3,3,1,0,0,10,-7,2,11
+MLS,15/05/2022,Home,Philadelphia Union,1,1,1,0,0,20,7,5,11
+MLS,15/05/2022,Away,New York Red Bulls,1,1,1,0,0,19,8,5,11
+MLS,15/05/2022,Home,Chicago Fire,1,2,0,0,-1,10,-5,2,11
+MLS,15/05/2022,Away,FC Cincinnati,2,1,3,1,1,19,-2,6,12
+MLS,15/05/2022,Home,Inter Miami,2,2,1,0,0,11,-10,3,11
+MLS,15/05/2022,Away,DC United,2,2,1,0,0,13,-1,4,10
+MLS,15/05/2022,Home,Houston Dynamo,2,0,3,1,2,15,1,4,11
+MLS,15/05/2022,Away,Nashville SC,0,2,0,0,-2,15,-1,4,11
+MLS,15/05/2022,Home,Real Salt Lake,2,1,3,1,1,19,-4,5,12
+MLS,15/05/2022,Away,Austin FC,1,2,0,0,-1,20,12,6,11
+MLS,15/05/2022,Home,Portland Timbers,7,2,3,1,5,15,0,3,12
+MLS,15/05/2022,Away,Sporting Kansas City,2,7,0,0,-5,9,-13,2,12
+MLS,15/05/2022,Home,Los Angeles Galaxy,1,3,0,0,-2,19,2,6,11
+MLS,15/05/2022,Away,FC Dallas,3,1,3,1,2,22,11,6,11
+MLS,15/05/2022,Home,Atlanta Utd,2,2,1,0,0,15,1,4,11
+MLS,15/05/2022,Away,New England Revolution,2,2,1,0,0,12,-2,3,11
+MLS,15/05/2022,Home,Seattle Sounders,3,1,3,1,2,10,-2,3,9
+MLS,15/05/2022,Away,Minnesota United,1,3,0,0,-2,14,0,4,11
+MLS,19/05/2022,Home,DC United,0,2,0,0,-2,13,-3,4,11
+MLS,19/05/2022,Away,New York City,2,0,3,1,2,20,13,6,11
+MLS,19/05/2022,Home,New York Red Bulls,3,3,1,0,0,20,8,5,12
+MLS,19/05/2022,Away,Chicago Fire,3,3,1,0,0,11,-5,2,12
+MLS,19/05/2022,Home,Philadelphia Union,0,0,1,0,0,21,7,5,12
+MLS,19/05/2022,Away,Inter Miami,0,0,1,0,0,12,-10,3,12
+MLS,19/05/2022,Home,Minnesota United,1,1,1,0,0,15,0,4,12
+MLS,19/05/2022,Away,Los Angeles Galaxy,1,1,1,0,0,20,2,6,12
+MLS,19/05/2022,Home,Houston Dynamo,0,1,0,0,-1,15,0,4,12
+MLS,19/05/2022,Away,Seattle Sounders,1,0,3,1,1,13,-1,4,10
+MLS,19/05/2022,Home,Nashville SC,2,1,3,1,1,18,0,5,12
+MLS,19/05/2022,Away,CF Montreal,1,2,0,0,-1,20,2,6,12
+MLS,19/05/2022,Home,Sporting Kansas City,2,1,3,1,1,12,-12,3,13
+MLS,19/05/2022,Away,Colorado Rapids,1,2,0,0,-1,15,0,4,12
+MLS,19/05/2022,Home,Vancouver Whitecaps,2,1,3,1,1,11,-9,3,11
+MLS,19/05/2022,Away,FC Dallas,1,2,0,0,-1,22,10,6,12
+MLS,19/05/2022,Home,Los Angeles FC,1,2,0,0,-1,23,10,7,12
+MLS,19/05/2022,Away,Austin FC,2,1,3,1,1,23,13,7,12
+MLS,19/05/2022,Home,San Jose Earthquakes,3,2,3,1,1,13,-6,3,12
+MLS,19/05/2022,Away,Portland Timbers,2,3,0,0,-1,15,-1,3,13
+MLS,21/05/2022,Home,Columbus Crew,0,2,0,0,-2,13,0,3,12
+MLS,21/05/2022,Away,Los Angeles FC,2,0,3,1,2,26,12,8,13
+MLS,21/05/2022,Home,FC Cincinnati,2,3,0,0,-1,19,-3,6,13
+MLS,21/05/2022,Away,New England Revolution,3,2,3,1,1,15,-1,4,12
+MLS,21/05/2022,Home,DC United,2,2,1,0,0,14,-3,4,12
+MLS,21/05/2022,Away,Toronto FC,2,2,1,0,0,12,-7,3,13
+MLS,22/05/2022,Home,Nashville SC,2,2,1,0,0,19,0,5,13
+MLS,22/05/2022,Away,Atlanta Utd,2,2,1,0,0,16,1,4,12
+MLS,22/05/2022,Home,CF Montreal,1,2,0,0,-1,20,1,6,13
+MLS,22/05/2022,Away,Real Salt Lake,2,1,3,1,1,22,-3,6,13
+MLS,22/05/2022,Home,Charlotte,2,1,3,1,1,16,-4,5,13
+MLS,22/05/2022,Away,Vancouver Whitecaps,1,2,0,0,-1,11,-10,3,12
+MLS,22/05/2022,Home,New York City,1,0,3,1,1,23,14,7,12
+MLS,22/05/2022,Away,Chicago Fire,0,1,0,0,-1,11,-6,2,13
+MLS,22/05/2022,Home,Inter Miami,2,0,3,1,2,15,-8,4,13
+MLS,22/05/2022,Away,New York Red Bulls,0,2,0,0,-2,20,6,5,13
+MLS,23/05/2022,Home,FC Dallas,1,2,0,0,-1,22,9,6,13
+MLS,23/05/2022,Away,Minnesota United,2,1,3,1,1,18,1,5,13
+MLS,23/05/2022,Home,San Jose Earthquakes,1,1,1,0,0,14,-6,3,13
+MLS,23/05/2022,Away,Sporting Kansas City,1,1,1,0,0,13,-12,3,14
+MLS,23/05/2022,Home,Austin FC,2,2,1,0,0,24,13,7,13
+MLS,23/05/2022,Away,Orlando City,2,2,1,0,0,21,-1,6,13
+MLS,23/05/2022,Home,Colorado Rapids,1,0,3,1,1,18,1,5,13
+MLS,23/05/2022,Away,Seattle Sounders,0,1,0,0,-1,13,-2,4,11
+MLS,23/05/2022,Home,Los Angeles Galaxy,0,3,0,0,-3,20,-1,6,13
+MLS,23/05/2022,Away,Houston Dynamo,3,0,3,1,3,18,3,5,13
+MLS,23/05/2022,Home,Portland Timbers,0,2,0,0,-2,15,-3,3,14
+MLS,23/05/2022,Away,Philadelphia Union,2,0,3,1,2,24,9,6,13
+MLS,28/05/2022,Home,Los Angeles FC,3,2,3,1,1,29,13,9,14
+MLS,28/05/2022,Away,San Jose Earthquakes,2,3,0,0,-1,14,-7,3,14
+MLS,29/05/2022,Home,Atlanta Utd,1,2,0,0,-1,16,0,4,13
+MLS,29/05/2022,Away,Columbus Crew,2,1,3,1,1,16,1,4,13
+MLS,29/05/2022,Home,New York Red Bulls,4,1,3,1,3,23,9,6,14
+MLS,29/05/2022,Away,DC United,1,4,0,0,-3,14,-6,4,13
+MLS,29/05/2022,Home,Toronto FC,3,2,3,1,1,15,-6,4,14
+MLS,29/05/2022,Away,Chicago Fire,2,3,0,0,-1,11,-7,2,14
+MLS,29/05/2022,Home,CF Montreal,4,3,3,1,1,23,2,7,14
+MLS,29/05/2022,Away,FC Cincinnati,3,4,0,0,-1,19,-4,6,14
+MLS,29/05/2022,Home,New England Revolution,1,1,1,0,0,16,-1,4,13
+MLS,29/05/2022,Away,Philadelphia Union,1,1,1,0,0,25,9,6,14
+MLS,29/05/2022,Home,Orlando City,1,3,0,0,-2,21,-3,6,14
+MLS,29/05/2022,Away,FC Dallas,3,1,3,1,2,25,11,7,14
+MLS,29/05/2022,Home,Inter Miami,2,1,3,1,1,18,-7,5,14
+MLS,29/05/2022,Away,Portland Timbers,1,2,0,0,-1,15,-4,3,15
+MLS,29/05/2022,Home,Minnesota United,0,1,0,0,-1,18,0,5,14
+MLS,29/05/2022,Away,New York City,1,0,3,1,1,26,15,8,13
+MLS,29/05/2022,Home,Colorado Rapids,1,3,0,0,-2,18,-1,5,14
+MLS,29/05/2022,Away,Nashville SC,3,1,3,1,2,22,2,6,14
+MLS,29/05/2022,Home,Sporting Kansas City,0,1,0,0,-1,13,-13,3,15
+MLS,29/05/2022,Away,Vancouver Whitecaps,1,0,3,1,1,14,-9,4,13
+MLS,29/05/2022,Home,Real Salt Lake,3,0,3,1,3,25,0,7,14
+MLS,29/05/2022,Away,Houston Dynamo,0,3,0,0,-3,18,0,5,14
+MLS,29/05/2022,Home,Los Angeles Galaxy,4,1,3,1,3,23,2,7,14
+MLS,29/05/2022,Away,Austin FC,1,4,0,0,-3,24,10,7,14
+MLS,30/05/2022,Home,Seattle Sounders,2,1,3,1,1,16,-1,5,12
+MLS,30/05/2022,Away,Charlotte,1,2,0,0,-1,16,-5,5,14
+MLS,05/06/2022,Home,Vancouver Whitecaps,2,1,3,1,1,17,-8,5,14
+MLS,05/06/2022,Away,Real Salt Lake,1,2,0,0,-1,25,-1,7,15
+MLS,11/06/2022,Home,Charlotte,2,0,3,1,2,19,-3,6,15
+MLS,11/06/2022,Away,New York Red Bulls,0,2,0,0,-2,23,7,6,15
+MLS,12/06/2022,Home,Nashville SC,0,0,1,0,0,23,2,6,15
+MLS,12/06/2022,Away,San Jose Earthquakes,0,0,1,0,0,15,-7,3,15
+MLS,12/06/2022,Home,Sporting Kansas City,1,2,0,0,-1,13,-14,3,16
+MLS,12/06/2022,Away,New England Revolution,2,1,3,1,1,19,0,5,14
+MLS,15/06/2022,Home,Seattle Sounders,4,0,3,1,4,19,3,6,13
+MLS,15/06/2022,Away,Vancouver Whitecaps,0,4,0,0,-4,17,-12,5,15
+MLS,16/06/2022,Home,New England Revolution,1,1,1,0,0,20,0,5,15
+MLS,16/06/2022,Away,Orlando City,1,1,1,0,0,22,-3,6,15
+MLS,18/06/2022,Home,Seattle Sounders,1,1,1,0,0,20,3,6,14
+MLS,18/06/2022,Away,Los Angeles FC,1,1,1,0,0,30,13,9,15
+MLS,18/06/2022,Home,Los Angeles Galaxy,1,1,1,0,0,24,2,7,15
+MLS,18/06/2022,Away,Portland Timbers,1,1,1,0,0,16,-4,3,16
+MLS,19/06/2022,Home,New York Red Bulls,2,0,3,1,2,26,9,7,16
+MLS,19/06/2022,Away,Toronto FC,0,2,0,0,-2,15,-8,4,15
+MLS,19/06/2022,Home,CF Montreal,0,1,0,0,-1,23,1,7,15
+MLS,19/06/2022,Away,Austin FC,1,0,3,1,1,27,11,8,15
+MLS,19/06/2022,Home,Columbus Crew,1,1,1,0,0,17,1,4,14
+MLS,19/06/2022,Away,Charlotte,1,1,1,0,0,20,-3,6,16
+MLS,19/06/2022,Home,Orlando City,2,1,3,1,1,25,-2,7,16
+MLS,19/06/2022,Away,Houston Dynamo,1,2,0,0,-1,18,-1,5,15
+MLS,19/06/2022,Home,Philadelphia Union,1,1,1,0,0,26,9,6,15
+MLS,19/06/2022,Away,FC Cincinnati,1,1,1,0,0,20,-4,6,15
+MLS,19/06/2022,Home,Chicago Fire,1,0,3,1,1,14,-6,3,15
+MLS,19/06/2022,Away,DC United,0,1,0,0,-1,14,-7,4,14
+MLS,19/06/2022,Home,FC Dallas,0,2,0,0,-2,25,9,7,15
+MLS,19/06/2022,Away,Vancouver Whitecaps,2,0,3,1,2,20,-10,6,16
+MLS,19/06/2022,Home,Real Salt Lake,2,0,3,1,2,28,1,8,16
+MLS,19/06/2022,Away,San Jose Earthquakes,0,2,0,0,-2,15,-9,3,16
+MLS,19/06/2022,Home,Atlanta Utd,2,0,3,1,2,19,2,5,14
+MLS,19/06/2022,Away,Inter Miami,0,2,0,0,-2,18,-9,5,15
+MLS,19/06/2022,Home,New England Revolution,2,1,3,1,1,23,1,6,16
+MLS,19/06/2022,Away,Minnesota United,1,2,0,0,-1,18,-1,5,15
+MLS,19/06/2022,Home,New York City,1,1,1,0,0,27,15,8,14
+MLS,19/06/2022,Away,Colorado Rapids,1,1,1,0,0,19,-1,5,15
+MLS,19/06/2022,Home,Nashville SC,1,2,0,0,-1,23,1,6,16
+MLS,19/06/2022,Away,Sporting Kansas City,2,1,3,1,1,16,-13,4,17
+MLS,25/06/2022,Home,FC Cincinnati,1,0,3,1,1,23,-3,7,16
+MLS,25/06/2022,Away,Orlando City,0,1,0,0,-1,25,-3,7,17
+MLS,25/06/2022,Home,Seattle Sounders,3,0,3,1,3,23,6,7,15
+MLS,25/06/2022,Away,Sporting Kansas City,0,3,0,0,-3,16,-16,4,18
+MLS,25/06/2022,Home,DC United,1,3,0,0,-2,14,-9,4,15
+MLS,25/06/2022,Away,Nashville SC,3,1,3,1,2,26,3,7,17
+MLS,26/06/2022,Home,CF Montreal,2,1,3,1,1,26,2,8,16
+MLS,26/06/2022,Away,Charlotte,1,2,0,0,-1,20,-4,6,17
+MLS,26/06/2022,Home,Toronto FC,2,1,3,1,1,18,-7,5,16
+MLS,26/06/2022,Away,Atlanta Utd,1,2,0,0,-1,19,1,5,15
+MLS,26/06/2022,Home,Houston Dynamo,2,0,3,1,2,21,1,6,16
+MLS,26/06/2022,Away,Chicago Fire,0,2,0,0,-2,14,-8,3,16
+MLS,26/06/2022,Home,Inter Miami,2,1,3,1,1,21,-8,6,16
+MLS,26/06/2022,Away,Minnesota United,1,2,0,0,-1,18,-2,5,16
+MLS,26/06/2022,Home,Austin FC,2,2,1,0,0,28,11,8,16
+MLS,26/06/2022,Away,FC Dallas,2,2,1,0,0,26,9,7,16
+MLS,26/06/2022,Home,Real Salt Lake,0,0,1,0,0,29,1,8,17
+MLS,26/06/2022,Away,Columbus Crew,0,0,1,0,0,18,1,4,15
+MLS,26/06/2022,Home,Portland Timbers,3,0,3,1,3,19,-1,4,17
+MLS,26/06/2022,Away,Colorado Rapids,0,3,0,0,-3,19,-4,5,16
+MLS,26/06/2022,Home,Los Angeles FC,2,0,3,1,2,33,15,10,16
+MLS,26/06/2022,Away,New York Red Bulls,0,2,0,0,-2,26,7,7,17
+MLS,26/06/2022,Home,Philadelphia Union,2,1,3,1,1,29,10,7,16
+MLS,26/06/2022,Away,New York City,1,2,0,0,-1,27,14,8,15
+MLS,27/06/2022,Home,Vancouver Whitecaps,0,0,1,0,0,21,-10,6,17
+MLS,27/06/2022,Away,New England Revolution,0,0,1,0,0,24,1,6,17
+MLS,30/06/2022,Home,FC Cincinnati,4,4,1,0,0,24,-3,7,17
+MLS,30/06/2022,Away,New York City,4,4,1,0,0,28,14,8,16
+MLS,30/06/2022,Home,Toronto FC,1,2,0,0,-1,18,-8,5,17
+MLS,30/06/2022,Away,Columbus Crew,2,1,3,1,1,21,2,5,16
+MLS,30/06/2022,Home,Chicago Fire,1,0,3,1,1,17,-7,4,17
+MLS,30/06/2022,Away,Philadelphia Union,0,1,0,0,-1,29,9,7,17
+MLS,30/06/2022,Home,Seattle Sounders,1,2,0,0,-1,23,5,7,16
+MLS,30/06/2022,Away,CF Montreal,2,1,3,1,1,29,3,9,17
+MLS,30/06/2022,Home,Los Angeles FC,3,1,3,1,2,36,17,11,17
+MLS,30/06/2022,Away,FC Dallas,1,3,0,0,-2,26,7,7,17
+MLS,30/06/2022,Home,Los Angeles Galaxy,2,3,0,0,-1,24,1,7,16
+MLS,30/06/2022,Away,Minnesota United,3,2,3,1,1,21,-1,6,17
+MLS,30/06/2022,Home,Portland Timbers,2,1,3,1,1,22,0,5,18
+MLS,30/06/2022,Away,Houston Dynamo,1,2,0,0,-1,21,0,6,17
+MLS,01/07/2022,Home,Charlotte,0,1,0,0,-1,20,-5,6,18
+MLS,01/07/2022,Away,Austin FC,1,0,3,1,1,31,12,9,17
+MLS,01/07/2022,Home,New York Red Bulls,2,1,3,1,1,29,8,8,18
+MLS,01/07/2022,Away,Atlanta Utd,1,2,0,0,-1,19,0,5,16
+MLS,03/07/2022,Home,Toronto FC,0,2,0,0,-2,18,-10,5,18
+MLS,03/07/2022,Away,Seattle Sounders,2,0,3,1,2,26,7,8,17
+MLS,03/07/2022,Home,Vancouver Whitecaps,1,0,3,1,1,24,-9,7,18
+MLS,03/07/2022,Away,Los Angeles FC,0,1,0,0,-1,36,16,11,18
+MLS,03/07/2022,Home,New York City,2,2,1,0,0,29,14,8,17
+MLS,03/07/2022,Away,Atlanta Utd,2,2,1,0,0,20,0,5,17
+MLS,04/07/2022,Home,Columbus Crew,0,0,1,0,0,22,2,5,17
+MLS,04/07/2022,Away,Philadelphia Union,0,0,1,0,0,30,9,7,18
+MLS,04/07/2022,Home,New England Revolution,2,2,1,0,0,25,1,6,18
+MLS,04/07/2022,Away,FC Cincinnati,2,2,1,0,0,25,-3,7,18
+MLS,04/07/2022,Home,Minnesota United,3,2,3,1,1,24,0,7,18
+MLS,04/07/2022,Away,Real Salt Lake,2,3,0,0,-1,29,0,8,18
+MLS,04/07/2022,Home,Sporting Kansas City,0,1,0,0,-1,16,-17,4,19
+MLS,04/07/2022,Away,New York Red Bulls,1,0,3,1,1,32,9,9,19
+MLS,04/07/2022,Home,Houston Dynamo,1,2,0,0,-1,21,-1,6,18
+MLS,04/07/2022,Away,Charlotte,2,1,3,1,1,23,-4,7,19
+MLS,04/07/2022,Home,Nashville SC,2,2,1,0,0,27,3,7,18
+MLS,04/07/2022,Away,Portland Timbers,2,2,1,0,0,23,0,5,19
+MLS,04/07/2022,Home,San Jose Earthquakes,2,1,3,1,1,18,-8,4,17
+MLS,04/07/2022,Away,Chicago Fire,1,2,0,0,-1,17,-8,4,18
+MLS,05/07/2022,Home,Orlando City,3,5,0,0,-2,25,-5,7,18
+MLS,05/07/2022,Away,DC United,5,3,3,1,2,17,-7,5,16
+MLS,05/07/2022,Home,Colorado Rapids,2,3,0,0,-1,19,-5,5,17
+MLS,05/07/2022,Away,Austin FC,3,2,3,1,1,34,13,10,18
+MLS,05/07/2022,Home,FC Dallas,1,1,1,0,0,27,7,7,18
+MLS,05/07/2022,Away,Inter Miami,1,1,1,0,0,22,-8,6,17
+MLS,05/07/2022,Home,Los Angeles Galaxy,4,0,3,1,4,27,5,8,17
+MLS,05/07/2022,Away,CF Montreal,0,4,0,0,-4,29,-1,9,18
+MLS,09/07/2022,Home,Philadelphia Union,7,0,3,1,7,33,16,8,19
+MLS,09/07/2022,Away,DC United,0,7,0,0,-7,17,-14,5,17
+MLS,09/07/2022,Home,Los Angeles FC,3,2,3,1,1,39,17,12,19
+MLS,09/07/2022,Away,Los Angeles Galaxy,2,3,0,0,-1,27,4,8,18
+MLS,09/07/2022,Home,Vancouver Whitecaps,1,3,0,0,-2,24,-11,7,19
+MLS,09/07/2022,Away,Minnesota United,3,1,3,1,2,27,2,8,19
+MLS,09/07/2022,Home,New York City,4,2,3,1,2,32,16,9,18
+MLS,09/07/2022,Away,New England Revolution,2,4,0,0,-2,25,-1,6,19
+MLS,09/07/2022,Home,Seattle Sounders,0,3,0,0,-3,26,4,8,18
+MLS,09/07/2022,Away,Portland Timbers,3,0,3,1,3,26,3,6,20
+MLS,10/07/2022,Home,Atlanta Utd,0,3,0,0,-3,20,-3,5,18
+MLS,10/07/2022,Away,Austin FC,3,0,3,1,3,37,16,11,19
+MLS,10/07/2022,Home,CF Montreal,1,2,0,0,-1,29,-2,9,19
+MLS,10/07/2022,Away,Sporting Kansas City,2,1,3,1,1,19,-16,5,20
+MLS,10/07/2022,Home,Charlotte,4,1,3,1,3,26,-1,8,20
+MLS,10/07/2022,Away,Nashville SC,1,4,0,0,-3,27,0,7,19
+MLS,10/07/2022,Home,Toronto FC,2,2,1,0,0,19,-10,5,19
+MLS,10/07/2022,Away,San Jose Earthquakes,2,2,1,0,0,19,-8,4,18
+MLS,10/07/2022,Home,FC Cincinnati,1,1,1,0,0,26,-3,7,19
+MLS,10/07/2022,Away,New York Red Bulls,1,1,1,0,0,33,9,9,20
+MLS,10/07/2022,Home,Orlando City,1,0,3,1,1,28,-4,8,19
+MLS,10/07/2022,Away,Inter Miami,0,1,0,0,-1,22,-9,6,18
+MLS,10/07/2022,Home,Chicago Fire,2,3,0,0,-1,17,-9,4,19
+MLS,10/07/2022,Away,Columbus Crew,3,2,3,1,1,25,3,6,18
+MLS,10/07/2022,Home,Houston Dynamo,2,2,1,0,0,22,-1,6,19
+MLS,10/07/2022,Away,FC Dallas,2,2,1,0,0,28,7,7,19
+MLS,10/07/2022,Home,Real Salt Lake,2,2,1,0,0,30,0,8,19
+MLS,10/07/2022,Away,Colorado Rapids,2,2,1,0,0,20,-5,5,18
+MLS,13/07/2022,Home,Austin FC,3,1,3,1,2,40,18,12,20
+MLS,13/07/2022,Away,Houston Dynamo,1,3,0,0,-2,22,-3,6,20
+MLS,14/07/2022,Home,Atlanta Utd,2,1,3,1,1,23,-2,6,19
+MLS,14/07/2022,Away,Real Salt Lake,1,2,0,0,-1,30,-1,8,20
+MLS,14/07/2022,Home,Chicago Fire,2,0,3,1,2,20,-7,5,20
+MLS,14/07/2022,Away,Toronto FC,0,2,0,0,-2,19,-12,5,20
+MLS,14/07/2022,Home,DC United,2,2,1,0,0,18,-14,5,18
+MLS,14/07/2022,Away,Columbus Crew,2,2,1,0,0,26,3,6,19
+MLS,14/07/2022,Home,FC Cincinnati,2,2,1,0,0,27,-3,7,20
+MLS,14/07/2022,Away,Vancouver Whitecaps,2,2,1,0,0,25,-11,7,20
+MLS,14/07/2022,Home,Inter Miami,1,2,0,0,-1,22,-10,6,19
+MLS,14/07/2022,Away,Philadelphia Union,2,1,3,1,1,36,17,9,20
+MLS,14/07/2022,Home,Minnesota United,1,1,1,0,0,28,2,8,20
+MLS,14/07/2022,Away,Sporting Kansas City,1,1,1,0,0,20,-16,5,21
+MLS,14/07/2022,Home,Nashville SC,1,0,3,1,1,30,1,8,20
+MLS,14/07/2022,Away,Seattle Sounders,0,1,0,0,-1,26,3,8,19
+MLS,14/07/2022,Home,Colorado Rapids,1,1,1,0,0,21,-5,5,19
+MLS,14/07/2022,Away,Orlando City,1,1,1,0,0,29,-4,8,20
+MLS,14/07/2022,Home,FC Dallas,0,1,0,0,-1,28,6,7,20
+MLS,14/07/2022,Away,New York City,1,0,3,1,1,35,17,10,19
+MLS,14/07/2022,Home,Los Angeles Galaxy,2,3,0,0,-1,27,3,8,19
+MLS,14/07/2022,Away,San Jose Earthquakes,3,2,3,1,1,22,-7,5,19
+MLS,17/07/2022,Home,CF Montreal,1,0,3,1,1,32,-1,10,20
+MLS,17/07/2022,Away,Toronto FC,0,1,0,0,-1,19,-13,5,21
+MLS,17/07/2022,Home,Philadelphia Union,2,1,3,1,1,39,18,10,21
+MLS,17/07/2022,Away,New England Revolution,1,2,0,0,-1,25,-2,6,20
+MLS,17/07/2022,Home,Chicago Fire,1,0,3,1,1,23,-6,6,21
+MLS,17/07/2022,Away,Seattle Sounders,0,1,0,0,-1,26,2,8,20
+MLS,17/07/2022,Home,Inter Miami,3,2,3,1,1,25,-9,7,20
+MLS,17/07/2022,Away,Charlotte,2,3,0,0,-1,26,-2,8,21
+MLS,17/07/2022,Home,Minnesota United,2,0,3,1,2,31,4,9,21
+MLS,17/07/2022,Away,DC United,0,2,0,0,-2,18,-16,5,19
+MLS,17/07/2022,Home,Colorado Rapids,2,0,3,1,2,24,-3,6,20
+MLS,17/07/2022,Away,Los Angeles Galaxy,0,2,0,0,-2,27,1,8,20
+MLS,17/07/2022,Home,FC Dallas,1,1,1,0,0,29,6,7,21
+MLS,17/07/2022,Away,Austin FC,1,1,1,0,0,41,18,12,21
+MLS,17/07/2022,Home,Atlanta Utd,1,1,1,0,0,24,-2,6,20
+MLS,17/07/2022,Away,Orlando City,1,1,1,0,0,30,-4,8,21
+MLS,17/07/2022,Home,New York Red Bulls,0,1,0,0,-1,33,8,9,21
+MLS,17/07/2022,Away,New York City,1,0,3,1,1,38,18,11,20
+MLS,18/07/2022,Home,Columbus Crew,2,0,3,1,2,29,5,7,20
+MLS,18/07/2022,Away,FC Cincinnati,0,2,0,0,-2,27,-5,7,21
+MLS,18/07/2022,Home,Nashville SC,1,2,0,0,-1,30,0,8,21
+MLS,18/07/2022,Away,Los Angeles FC,2,1,3,1,1,42,18,13,20
+MLS,18/07/2022,Home,Real Salt Lake,3,0,3,1,3,33,2,9,21
+MLS,18/07/2022,Away,Sporting Kansas City,0,3,0,0,-3,20,-19,5,22
+MLS,18/07/2022,Home,San Jose Earthquakes,1,2,0,0,-1,22,-8,5,20
+MLS,18/07/2022,Away,Houston Dynamo,2,1,3,1,1,25,-2,7,21
+MLS,18/07/2022,Home,Portland Timbers,1,1,1,0,0,27,3,6,21
+MLS,18/07/2022,Away,Vancouver Whitecaps,1,1,1,0,0,26,-11,7,21
+MLS,24/07/2022,Home,New York City,2,0,3,1,2,41,20,12,21
+MLS,24/07/2022,Away,Inter Miami,0,2,0,0,-2,25,-11,7,21
+MLS,24/07/2022,Home,Columbus Crew,0,0,1,0,0,30,5,7,21
+MLS,24/07/2022,Away,New England Revolution,0,0,1,0,0,26,-2,6,21
+MLS,24/07/2022,Home,FC Cincinnati,1,1,1,0,0,28,-5,7,22
+MLS,24/07/2022,Away,Nashville SC,1,1,1,0,0,31,0,8,22
+MLS,24/07/2022,Home,Orlando City,0,1,0,0,-1,30,-5,8,22
+MLS,24/07/2022,Away,Philadelphia Union,1,0,3,1,1,42,19,11,22
+MLS,24/07/2022,Home,Toronto FC,4,0,3,1,4,22,-9,6,22
+MLS,24/07/2022,Away,Charlotte,0,4,0,0,-4,26,-6,8,22
+MLS,24/07/2022,Home,DC United,1,2,0,0,-1,18,-17,5,20
+MLS,24/07/2022,Away,CF Montreal,2,1,3,1,1,35,0,11,21
+MLS,24/07/2022,Home,Houston Dynamo,1,2,0,0,-1,25,-3,7,22
+MLS,24/07/2022,Away,Minnesota United,2,1,3,1,1,34,5,10,22
+MLS,24/07/2022,Home,Sporting Kansas City,0,2,0,0,-2,20,-21,5,23
+MLS,24/07/2022,Away,Los Angeles FC,2,0,3,1,2,45,20,14,21
+MLS,24/07/2022,Home,Real Salt Lake,0,1,0,0,-1,33,1,9,22
+MLS,24/07/2022,Away,FC Dallas,1,0,3,1,1,32,7,8,22
+MLS,24/07/2022,Home,Seattle Sounders,2,1,3,1,1,29,3,9,21
+MLS,24/07/2022,Away,Colorado Rapids,1,2,0,0,-1,24,-4,6,21
+MLS,24/07/2022,Home,Vancouver Whitecaps,1,3,0,0,-2,26,-13,7,22
+MLS,24/07/2022,Away,Chicago Fire,3,1,3,1,2,26,-4,7,22
+MLS,24/07/2022,Home,Portland Timbers,2,1,3,1,1,30,4,7,22
+MLS,24/07/2022,Away,San Jose Earthquakes,1,2,0,0,-1,22,-9,5,21
+MLS,25/07/2022,Home,Austin FC,3,4,0,0,-1,41,17,12,22
+MLS,25/07/2022,Away,New York Red Bulls,4,3,3,1,1,36,9,10,22
+MLS,25/07/2022,Home,Los Angeles Galaxy,2,0,3,1,2,30,3,9,21
+MLS,25/07/2022,Away,Atlanta Utd,0,2,0,0,-2,24,-4,6,21
+MLS,30/07/2022,Home,Los Angeles FC,2,1,3,1,1,48,21,15,22
+MLS,30/07/2022,Away,Seattle Sounders,1,2,0,0,-1,29,2,9,22
+MLS,30/07/2022,Home,Minnesota United,4,4,1,0,0,35,5,10,23
+MLS,30/07/2022,Away,Portland Timbers,4,4,1,0,0,31,4,7,23
+MLS,30/07/2022,Home,Chicago Fire,0,0,1,0,0,27,-4,7,23
+MLS,30/07/2022,Away,Atlanta Utd,0,0,1,0,0,25,-4,6,22
+MLS,31/07/2022,Home,CF Montreal,0,0,1,0,0,36,0,11,22
+MLS,31/07/2022,Away,New York City,0,0,1,0,0,42,20,12,22
+MLS,31/07/2022,Home,Philadelphia Union,6,0,3,1,6,45,25,12,23
+MLS,31/07/2022,Away,Houston Dynamo,0,6,0,0,-6,25,-9,7,23
+MLS,31/07/2022,Home,Inter Miami,4,4,1,0,0,26,-11,7,22
+MLS,31/07/2022,Away,FC Cincinnati,4,4,1,0,0,29,-5,7,23
+MLS,31/07/2022,Home,Nashville SC,1,1,1,0,0,32,0,8,23
+MLS,31/07/2022,Away,Vancouver Whitecaps,1,1,1,0,0,27,-13,7,23
+MLS,31/07/2022,Home,New England Revolution,0,0,1,0,0,27,-2,6,22
+MLS,31/07/2022,Away,Toronto FC,0,0,1,0,0,23,-9,6,23
+MLS,31/07/2022,Home,Sporting Kansas City,0,2,0,0,-2,20,-23,5,24
+MLS,31/07/2022,Away,Austin FC,2,0,3,1,2,44,19,13,23
+MLS,31/07/2022,Home,FC Dallas,1,0,3,1,1,35,8,9,23
+MLS,31/07/2022,Away,Los Angeles Galaxy,0,1,0,0,-1,30,2,9,22
+MLS,31/07/2022,Home,San Jose Earthquakes,2,2,1,0,0,23,-9,5,22
+MLS,31/07/2022,Away,Real Salt Lake,2,2,1,0,0,34,1,9,23
+MLS,31/07/2022,Home,DC United,2,1,3,1,1,21,-16,6,21
+MLS,31/07/2022,Away,Orlando City,1,2,0,0,-1,30,-6,8,23
+MLS,03/08/2022,Home,New York Red Bulls,4,5,0,0,-1,36,8,10,23
+MLS,03/08/2022,Away,Colorado Rapids,5,4,3,1,1,27,-3,7,22
+MLS,03/08/2022,Home,Seattle Sounders,1,0,3,1,1,32,3,10,23
+MLS,03/08/2022,Away,FC Dallas,0,1,0,0,-1,35,7,9,24
+MLS,04/08/2022,Home,Charlotte,3,0,3,1,3,29,-3,9,23
+MLS,04/08/2022,Away,DC United,0,3,0,0,-3,21,-19,6,22
+MLS,04/08/2022,Home,Columbus Crew,1,2,0,0,-1,30,4,7,22
+MLS,04/08/2022,Away,CF Montreal,2,1,3,1,1,39,1,12,23
+MLS,04/08/2022,Home,Portland Timbers,1,1,1,0,0,32,4,7,24
+MLS,04/08/2022,Away,Nashville SC,1,1,1,0,0,33,0,8,24
+MLS,04/08/2022,Home,San Jose Earthquakes,0,1,0,0,-1,23,-10,5,23
+MLS,04/08/2022,Away,Inter Miami,1,0,3,1,1,29,-10,8,23
+MLS,06/08/2022,Home,Vancouver Whitecaps,2,1,3,1,1,30,-12,8,24
+MLS,06/08/2022,Away,Houston Dynamo,1,2,0,0,-1,25,-10,7,24
+MLS,06/08/2022,Home,Atlanta Utd,2,1,3,1,1,28,-3,7,23
+MLS,06/08/2022,Away,Seattle Sounders,1,2,0,0,-1,32,2,10,24
+MLS,07/08/2022,Home,Charlotte,2,3,0,0,-1,29,-4,9,24
+MLS,07/08/2022,Away,Chicago Fire,3,2,3,1,1,30,-3,8,24
+MLS,07/08/2022,Home,CF Montreal,2,2,1,0,0,40,1,12,24
+MLS,07/08/2022,Away,Inter Miami,2,2,1,0,0,30,-10,8,24
+MLS,07/08/2022,Home,Columbus Crew,3,2,3,1,1,33,5,8,23
+MLS,07/08/2022,Away,New York City,2,3,0,0,-1,42,19,12,23
+MLS,07/08/2022,Home,DC United,0,0,1,0,0,22,-19,6,23
+MLS,07/08/2022,Away,New York Red Bulls,0,0,1,0,0,37,8,10,24
+MLS,07/08/2022,Home,FC Cincinnati,3,1,3,1,2,32,-3,8,24
+MLS,07/08/2022,Away,Philadelphia Union,1,3,0,0,-2,45,23,12,24
+MLS,07/08/2022,Home,Orlando City,0,3,0,0,-3,30,-9,8,24
+MLS,07/08/2022,Away,New England Revolution,3,0,3,1,3,30,1,7,23
+MLS,07/08/2022,Home,Nashville SC,3,4,0,0,-1,33,-1,8,25
+MLS,07/08/2022,Away,Toronto FC,4,3,3,1,1,26,-8,7,24
+MLS,07/08/2022,Home,Sporting Kansas City,4,2,3,1,2,23,-21,6,25
+MLS,07/08/2022,Away,Los Angeles Galaxy,2,4,0,0,-2,30,0,9,23
+MLS,07/08/2022,Home,Austin FC,3,3,1,0,0,45,19,13,24
+MLS,07/08/2022,Away,San Jose Earthquakes,3,3,1,0,0,24,-10,5,24
+MLS,07/08/2022,Home,Colorado Rapids,4,3,3,1,1,30,-2,8,23
+MLS,07/08/2022,Away,Minnesota United,3,4,0,0,-1,35,4,10,24
+MLS,07/08/2022,Home,Real Salt Lake,1,4,0,0,-3,34,-2,9,24
+MLS,07/08/2022,Away,Los Angeles FC,4,1,3,1,3,51,24,16,23
+MLS,07/08/2022,Home,Portland Timbers,1,1,1,0,0,33,4,7,25
+MLS,07/08/2022,Away,FC Dallas,1,1,1,0,0,36,7,9,25
+MLS,13/08/2022,Home,New York Red Bulls,0,1,0,0,-1,37,7,10,25
+MLS,13/08/2022,Away,Orlando City,1,0,3,1,1,33,-8,9,25
+MLS,14/08/2022,Home,FC Cincinnati,2,2,1,0,0,33,-3,8,25
+MLS,14/08/2022,Away,Atlanta Utd,2,2,1,0,0,29,-3,7,24
+MLS,14/08/2022,Home,New England Revolution,1,0,3,1,1,33,2,8,24
+MLS,14/08/2022,Away,DC United,0,1,0,0,-1,22,-20,6,24
+MLS,14/08/2022,Home,Philadelphia Union,4,1,3,1,3,48,26,13,25
+MLS,14/08/2022,Away,Chicago Fire,1,4,0,0,-3,30,-6,8,25
+MLS,14/08/2022,Home,Toronto FC,3,1,3,1,2,29,-6,8,25
+MLS,14/08/2022,Away,Portland Timbers,1,3,0,0,-2,33,2,7,26
+MLS,14/08/2022,Home,Inter Miami,3,2,3,1,1,33,-9,9,25
+MLS,14/08/2022,Away,New York City,2,3,0,0,-1,42,18,12,24
+MLS,14/08/2022,Home,Austin FC,4,3,3,1,1,48,20,14,25
+MLS,14/08/2022,Away,Sporting Kansas City,3,4,0,0,-1,23,-22,6,26
+MLS,14/08/2022,Home,Colorado Rapids,1,1,1,0,0,31,-2,8,24
+MLS,14/08/2022,Away,Columbus Crew,1,1,1,0,0,34,5,8,24
+MLS,14/08/2022,Home,FC Dallas,4,1,3,1,3,39,10,10,26
+MLS,14/08/2022,Away,San Jose Earthquakes,1,4,0,0,-3,24,-13,5,25
+MLS,14/08/2022,Home,Houston Dynamo,2,3,0,0,-1,25,-11,7,25
+MLS,14/08/2022,Away,CF Montreal,3,2,3,1,1,43,2,13,25
+MLS,14/08/2022,Home,Los Angeles Galaxy,5,2,3,1,3,33,3,10,24
+MLS,14/08/2022,Away,Vancouver Whitecaps,2,5,0,0,-3,30,-15,8,25
+MLS,14/08/2022,Home,Los Angeles FC,5,0,3,1,5,54,29,17,24
+MLS,14/08/2022,Away,Charlotte,0,5,0,0,-5,29,-9,9,25
+MLS,15/08/2022,Home,Nashville SC,1,2,0,0,-1,33,-2,8,26
+MLS,15/08/2022,Away,Minnesota United,2,1,3,1,1,38,5,11,25
+MLS,15/08/2022,Home,Seattle Sounders,1,2,0,0,-1,32,1,10,25
+MLS,15/08/2022,Away,Real Salt Lake,2,1,3,1,1,37,-1,10,25
+MLS,17/08/2022,Home,Los Angeles FC,1,0,3,1,1,57,30,18,25
+MLS,17/08/2022,Away,DC United,0,1,0,0,-1,22,-21,6,25
+MLS,18/08/2022,Home,Atlanta Utd,1,2,0,0,-1,29,-4,7,25
+MLS,18/08/2022,Away,New York Red Bulls,2,1,3,1,1,40,8,11,26
+MLS,18/08/2022,Home,Toronto FC,2,2,1,0,0,30,-6,8,26
+MLS,18/08/2022,Away,New England Revolution,2,2,1,0,0,34,2,8,25
+MLS,18/08/2022,Home,New York City,1,3,0,0,-2,42,16,12,25
+MLS,18/08/2022,Away,Charlotte,3,1,3,1,2,32,-7,10,26
+MLS,18/08/2022,Home,FC Dallas,1,0,3,1,1,42,11,11,27
+MLS,18/08/2022,Away,Philadelphia Union,0,1,0,0,-1,48,25,13,26
+MLS,18/08/2022,Home,Vancouver Whitecaps,2,1,3,1,1,33,-14,9,26
+MLS,18/08/2022,Away,Colorado Rapids,1,2,0,0,-1,31,-3,8,25

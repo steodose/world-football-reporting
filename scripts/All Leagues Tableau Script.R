@@ -247,8 +247,13 @@ all_leagues <- bind_rows(my_data_frames)
 #tableau <- gs4_create("matches_22/23", sheets = all_leagues)
 #tableau
 
-## Update data (run this every week after the games are over)
+## Update data in Google Sheets (run this every week after the games are over)
 
-sheet_write(all_league, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
+sheet_write(all_leagues, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
             sheet = "all_leauges")
+
+# read into WD as well
+write_csv(all_leagues, "all_leagues.csv")
+
+
 
