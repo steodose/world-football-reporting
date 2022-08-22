@@ -9,8 +9,7 @@ jobs:
   run-r-script:
     runs-on: ubuntu-latest # use Ubuntu
     env:
-      # The GitHub token will be available 
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} 
+      PACKAGE_PASSWORD: ${{ secrets.PACKAGE_PASSWORD } 
     steps:
       # imports an action from another repository, 
       # that enables the machine
