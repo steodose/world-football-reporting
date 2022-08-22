@@ -1,6 +1,3 @@
-# Update league data for world football matchday portal
-name: update-league-football-data
-
 on:
   schedule:
     - cron:  "00 23 * * *" # Every day at 11:00pm UTC (4:00pm Pacific)'
