@@ -6,7 +6,7 @@ on:
     - cron:  "00 23 * * *" # Every day at 11:00pm UTC (4:00pm Pacific)'
   workflow_dispatch:
 
-name: rscript
+name: scripts
 
 jobs:
   run-r-script:
