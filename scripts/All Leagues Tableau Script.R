@@ -249,6 +249,13 @@ all_leagues <- bind_rows(my_data_frames)
 
 ## Update data in Google Sheets (run this every week after the games are over)
 
+# sheets reauth with specified token and email address
+gs4_auth(
+    cache = ".secrets",
+    email = "steodose@gmail.com"
+)
+
+
 sheet_write(all_leagues, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
             sheet = "all_leauges")
 
