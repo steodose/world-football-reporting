@@ -5,7 +5,6 @@
 library(tidyverse)
 library(googlesheets4)
 
-
 ## -------------------------------- English Premier League --------------------------------------
 
 epl_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/E0.csv", 
@@ -13,7 +12,7 @@ epl_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/E0.csv",
 
 # Process data frame to get one row per team-game
 epl_results2 <- epl_results %>% 
-    select(Date:FTR) %>%
+    select(Div:FTR) %>%
     pivot_longer(contains('Team'), names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "HomeTeam", FTHG, FTAG),
            opp_score = ifelse(home_away == "AwayTeam", FTHG, FTAG),
@@ -42,7 +41,7 @@ bund_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/D1.csv",
 
 # Process data frame to get one row per team-game
 bund_results2 <- bund_results %>% 
-    select(Date:FTR) %>%
+    select(Div:FTR) %>%
     pivot_longer(contains('Team'), names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "HomeTeam", FTHG, FTAG),
            opp_score = ifelse(home_away == "AwayTeam", FTHG, FTAG),
@@ -71,7 +70,7 @@ esp_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/SP1.csv",
 
 # Process data espame to get one row per team-game
 esp_results2 <- esp_results %>% 
-    select(Date:FTR) %>%
+    select(Div:FTR) %>%
     pivot_longer(contains('Team'), names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "HomeTeam", FTHG, FTAG),
            opp_score = ifelse(home_away == "AwayTeam", FTHG, FTAG),
@@ -101,7 +100,7 @@ fr_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/F1.csv",
 
 # Process data frame to get one row per team-game
 fr_results2 <- fr_results %>% 
-    select(Date:FTR) %>%
+    select(Div:FTR) %>%
     pivot_longer(contains('Team'), names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "HomeTeam", FTHG, FTAG),
            opp_score = ifelse(home_away == "AwayTeam", FTHG, FTAG),
@@ -132,7 +131,7 @@ ita_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/I1.csv",
 
 # Process data itaame to get one row per team-game
 ita_results2 <- ita_results %>% 
-    select(Date:FTR) %>%
+    select(Div:FTR) %>%
     pivot_longer(contains('Team'), names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "HomeTeam", FTHG, FTAG),
            opp_score = ifelse(home_away == "AwayTeam", FTHG, FTAG),
@@ -163,7 +162,7 @@ rou_results <- read.csv("https://www.football-data.co.uk/new/ROU.csv",
 
 # Process data frame to get one row per team-game
 rou_results2 <- rou_results %>% 
-    select(Country:PA) %>% 
+    select(League:PA) %>% 
     pivot_longer(Home:Away, names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "Home", HG, AG),
            opp_score = ifelse(home_away == "Away", HG, AG),
@@ -182,6 +181,13 @@ liga_1 <- rou_results2 %>%
            gd_running = cumsum(goal_diff),
            wins_running = cumsum(win),
            match_count = row_number())
+
+# reorder coluns to match other leagues df
+liga_1 <- liga_1 %>%
+    rename("Div" = "League") %>%
+    select(Div, Date, home_away, team, score, opp_score, Pts, win, 
+           goal_diff, points_running, gd_running, wins_running, match_count)
+
 
 
 ## ---------------------------------- Major Laague Soccer --------------------------------------
@@ -202,8 +208,8 @@ mls_results2 <- mls_results %>%
                            TRUE ~ 0),
            win = ifelse(Pts == 3, 1, 0))
 
-
 # calculate the running counts for points, wins, and GD
+
 mls <- mls_results2 %>% 
     select(-c(HG, AG, Res)) %>%
     group_by(team) %>%
@@ -213,8 +219,16 @@ mls <- mls_results2 %>%
            wins_running = cumsum(win),
            match_count = row_number())
 
+# reorder coluns to match other leagues df
+mls <- mls %>%
+    rename("Div" = "League") %>%
+    select(Div, Date, home_away, team, score, opp_score, Pts, win, 
+           goal_diff, points_running, gd_running, wins_running, match_count)
 
-## Create list of data frames to be fed into one Google Sheet
+
+
+## combine into one dataframe and specify the leagues
+
 my_data_frames <- list(premier_league = premier_league,
                        bundesliga = bundesliga,
                        la_liga = la_liga,
@@ -223,16 +237,18 @@ my_data_frames <- list(premier_league = premier_league,
                        liga_1 = liga_1,
                        mls = mls)
 
-
-## Write to googlesheets for Tableau fun
-
-# Need to do this only once to initialize new googlesheet. Creates a sheet for each league. The workbook name is matches 22/23.
-
-# tableau <- gs4_create("matches_22/23", sheets = my_data_frames)
-# tableau
+all_leagues <- bind_rows(my_data_frames)
 
 
+## ------------------------- Write to googlesheets for Tableau fun ------------------------------
+
+# Need to do this only once to initialize new googlesheet. Creates a worksheet for each league. The spreadsheet (ie. workbook) name is matches_22/23.
+
+#tableau <- gs4_create("matches_22/23", sheets = all_leagues)
+#tableau
 
 ## Update data (run this every week after the games are over)
-#sheet_write(matchday_table, ss = "https://docs.google.com/spreadsheets/d/1s9bxaqr98KT35OaScBPjWfL8rEqfErxW_4OorxiOZCM/edit#gid=594354188", sheet = "matchday_table")
+
+sheet_write(all_league, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
+            sheet = "all_leauges")
 
