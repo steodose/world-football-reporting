@@ -262,9 +262,9 @@ all_leagues <- bind_rows(my_data_frames)
   #  email = "steodose@gmail.com")
 
 
-sheet_write(all_leagues, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
-            sheet = "all_leauges")
+#sheet_write(all_leagues, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
+ #           sheet = "all_leauges")
 
-# read into WD as well
+# read into Working Directory as well
 write_csv(all_leagues, "all_leagues.csv")
 
