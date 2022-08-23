@@ -9,7 +9,7 @@ jobs:
   run-r-script:
     runs-on: ubuntu-latest # use Ubuntu
     env:
-      PACKAGE_PASSWORD: ${{ secrets.PACKAGE_PASSWORD } 
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} 
     steps:
       # imports an action from another repository, 
       # that enables the machine
@@ -32,7 +32,7 @@ jobs:
         # executes the RScript stored in the file
         # scripts/All Leagues Tableau Script.R
         run: |
-          Rscript "scripts/All Leagues Tableau Script.R"
+          Rscript "All-Leagues-Tableau-Script.R"
 
         # save the results in the repository
         # using git in the command line
