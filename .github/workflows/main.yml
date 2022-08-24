@@ -4,6 +4,7 @@ name: update-world-football-data
 on:
   schedule:
     - cron: '00 23 * * *'
+  workflow_dispatch:
 
 jobs:
   run-r-script:
@@ -20,11 +21,7 @@ jobs:
         shell: bash
       - name: Install CRAN packages
         run: Rscript -e 'install.packages(c("tidyverse", "googledrive", "googlesheets4"))'
-      - name: Run GoogleDrive R script
-        run: |
-          source('scripts/Get-GoogleDrive-Data.R')
-        shell: Rscript {0}
-      - name: Run basic plot script
+      - name: Run All Leagues script
         run: |
           source('All-Leagues-Tableau-Script.R')
         shell: Rscript {0}
@@ -32,7 +29,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add data 
-          git add basic_plots
+          git add .
           git commit -m 'Run script and update Google Sheet with latest matches' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
