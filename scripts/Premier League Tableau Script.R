@@ -1,6 +1,6 @@
-##### 2021-22 La Liga Matches Script for Tableau Dashboard #####
+##### Premier League Matches Script for Tableau Dashboard #####
 ##### By: Stephan Teodosescu #####
-##### May 2022 #####
+##### April 2022 #####
 
 library(tidyverse)
 library(worldfootballR)
@@ -13,13 +13,13 @@ library(googlesheets4)
 
 #matchday_table <- tm_matchday_table(country_name="England", start_year="2021", matchday=c(1:30))
 
-# Alternatively load 2021-22 Ligue 1 Game Data espom football-data.com
-esp_results <- read.csv("https://www.football-data.co.uk/mmz4281/2122/SP1.csv", 
-                       stringsAsFactors = FALSE)
+# Alternatively load 2022-23 Premier League Game Data from football-data.com
+epl_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/E0.csv", 
+                        stringsAsFactors = FALSE)
 
 
-# Process data espame to get one row per team-game
-esp_results2 <- esp_results %>% 
+# Process data frame to get one row per team-game
+epl_results2 <- epl_results %>% 
     select(Date:FTR) %>%
     pivot_longer(contains('Team'), names_to = 'home_away', values_to = 'team', names_prefix = 'team_') %>% 
     mutate(score = ifelse(home_away == "HomeTeam", FTHG, FTAG),
@@ -31,7 +31,7 @@ esp_results2 <- esp_results %>%
 
 
 # calculate the running counts for points, wins, and GD
-matchday_table_esp <- esp_results2 %>% 
+matchday_table <- epl_results2 %>% 
     select(-c(Time, FTHG, FTAG, FTR)) %>%
     group_by(team) %>%
     mutate(goal_diff = score - opp_score) %>% 
@@ -45,12 +45,12 @@ matchday_table_esp <- esp_results2 %>%
 ##### Write to googlesheets for Tableau fun #####
 
 # Need to do this only once to initialize new googlesheet. Creates a sheet called matchday_table. The workbook name is sheets.
-#tableau_esp <- gs4_create("matches_esp", sheets = matchday_table_esp)
+#tableau <- gs4_create("matches", sheets = matchday_table)
 
 # calling this will write to Googlesheets
-#tableau_esp
+#tableau
 
 # update data (run this every week after the games are over)
-sheet_write(matchday_table_esp, ss = "https://docs.google.com/spreadsheets/d/10NAcTTP50C0EVqIiBWMnDFk0lyBNIK1hbooLIwJfAgI/edit#gid=148296448", 
-            sheet = "matchday_table_esp")
+sheet_write(matchday_table, ss = "https://docs.google.com/spreadsheets/d/1pS1jdqyP_dcMtEv2jjoHOGgZBVd0eUfzj6IX9A7lZYc/edit#gid=1752010332", 
+            sheet = "matchday_table")
 

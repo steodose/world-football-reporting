@@ -3,13 +3,13 @@ require("cronR")
 cron_ls()
 
 # list the full path of where the rscript is located
-path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/Big 5 Leagues.R"
+path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/Big_5_Leagues.R"
 
 # Create a command to execute an R-script
 cmd = cron_rscript(path)
 
 # add the command and specify the days/times to start
-cron_add(command= cmd, frequency = 'daily', at="14:00", days_of_week = c(1:4),
+cron_add(command= cmd, frequency = 'daily', at="10:55", days_of_week = c(1:4),
          id = 'BigFiveLeagues', description = 'Big Five Leagues Update')
 
 # remove it by 'id'

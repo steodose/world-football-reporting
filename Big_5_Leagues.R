@@ -10,8 +10,9 @@ library(googlesheets4)
 ##### Load Data and Wrangle #####
 
 league_tables <- get_season_team_stats(country = c("ENG", "GER", "FRA", "ESP", "ITA"), 
-                                      gender = "M", season_end_year = c(2012:2022), 
+                                      gender = "M", season_end_year = c(2012:2023), 
                                       tier = "1st", stat_type = "league_table")
+
 
 
 ##### Write to googlesheets for Tableau fun #####

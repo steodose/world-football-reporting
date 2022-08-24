@@ -6,6 +6,11 @@ library(tidyverse)
 library(googlesheets4)
 library(googledrive)
 
+#googledrive::drive_auth(path = Sys.getenv("GOOGLE_APPLICATION_CREDENTIALS"))
+#googledrive::drive_auth(path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/arched-medley-360300-6e4861e6e129.json")
+#googlesheets4::gs4_auth(path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/arched-medley-360300-6e4861e6e129.json")
+
+
 ## -------------------------------- English Premier League --------------------------------------
 
 epl_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/E0.csv", 
@@ -262,8 +267,14 @@ all_leagues <- bind_rows(my_data_frames)
   #  email = "steodose@gmail.com")
 
 
+# The below is required to handle the authorization of your Google account to have it write the new data to your sheet non-interactively
+googlesheets4::gs4_deauth()
+#googlesheets4::gs4_auth(path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/arched-medley-360300-6e4861e6e129.json")
+googlesheets4::gs4_auth(path = Sys.getenv("GOOGLE_APPLICATION_CREDENTIALS"))
+
+
 sheet_write(all_leagues, ss = "https://docs.google.com/spreadsheets/d/1wnNFwYEgUv6_O1RWzMzxWRFiIH3mTmjF39ESfb6A6Xk/edit#gid=893416354",
-            sheet = "all_leauges")
+            sheet = "all_leagues")
 
 # read into Working Directory as well
 write_csv(all_leagues, "all_leagues.csv")

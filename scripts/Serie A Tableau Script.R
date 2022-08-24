@@ -1,4 +1,4 @@
-##### 2021-22 La Liga Matches Script for Tableau Dashboard #####
+##### Serie A Matches Script for Tableau Dashboard #####
 ##### By: Stephan Teodosescu #####
 ##### May 2022 #####
 
@@ -13,8 +13,8 @@ library(googlesheets4)
 
 #matchday_table <- tm_matchday_table(country_name="England", start_year="2021", matchday=c(1:30))
 
-# Alternatively load 2021-22 Ligue 1 Game Data itaom football-data.com
-ita_results <- read.csv("https://www.football-data.co.uk/mmz4281/2122/I1.csv", 
+# Alternatively load Serie A Game Data itaom football-data.com
+ita_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/I1.csv", 
                         stringsAsFactors = FALSE)
 
 

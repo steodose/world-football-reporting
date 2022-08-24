@@ -1,4 +1,4 @@
-##### 2021-22 Bundesliga Matches Script for Tableau Dashboard #####
+##### Bundesliga Matches Script for Tableau Dashboard #####
 ##### By: Stephan Teodosescu #####
 ##### May 2022 #####
 
@@ -13,8 +13,8 @@ library(googlesheets4)
 
 #matchday_table <- tm_matchday_table(country_name="England", start_year="2021", matchday=c(1:30))
 
-# Alternatively load 2021-22 Bundesliga Game Data from football-data.com
-bund_results <- read.csv("https://www.football-data.co.uk/mmz4281/2122/D1.csv", 
+# Alternatively load 2022-23 Bundesliga Game Data from football-data.com
+bund_results <- read.csv("https://www.football-data.co.uk/mmz4281/2223/D1.csv", 
                         stringsAsFactors = FALSE)
 
 

@@ -1,4 +1,4 @@
-##### 2021-22 Liga 1 (Romania) Matches Script for Tableau Dashboard #####
+##### Liga 1 (Romania) Matches Script for Tableau Dashboard #####
 ##### By: Stephan Teodosescu #####
 ##### May 2022 #####
 
@@ -12,7 +12,7 @@ library(googlesheets4)
 # load MLS Game Data from football-data.com: https://www.football-data.co.uk/usa.php
 rou_results <- read.csv("https://www.football-data.co.uk/new/ROU.csv", 
                         stringsAsFactors = FALSE) %>% 
-    filter(Season == "2021/2022")
+    filter(Season == "2022/2023")
 
 
 # Process data frame to get one row per team-game
@@ -48,6 +48,6 @@ matchday_table_rou <- rou_results2 %>%
 
 # update data (run this every week after the games are over)
 sheet_write(matchday_table_mls, ss = "https://docs.google.com/spreadsheets/d/1IKLODOE_LLCIkMYrCN9Jpbo_mt479n5iRxMMZI0n4Qc/edit#gid=1184361520", 
-            sheet = "matchday_table_mls")
+            sheet = "matchday_table_rou")
 
 
