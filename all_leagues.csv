@@ -331,6 +331,16 @@ Liga 1,15/08/2022,Home,FC Voluntari,0,0,1,0,0,7,2,2,5
 Liga 1,15/08/2022,Away,Sepsi Sf. Gheorghe,0,0,1,0,0,7,4,1,5
 Liga 1,15/08/2022,Home,Farul Constanta,0,0,1,0,0,9,3,2,5
 Liga 1,15/08/2022,Away,FC Hermannstadt,0,0,1,0,0,9,4,2,5
+Liga 1,19/08/2022,Home,Mioveni,0,1,0,0,-1,1,-9,0,6
+Liga 1,19/08/2022,Away,FC Arges,1,0,3,1,1,9,-2,3,6
+Liga 1,19/08/2022,Home,U Craiova 1948,0,1,0,0,-1,7,1,2,6
+Liga 1,19/08/2022,Away,Petrolul,1,0,3,1,1,10,0,3,6
+Liga 1,20/08/2022,Home,FC Rapid Bucuresti,1,0,3,1,1,12,3,4,6
+Liga 1,20/08/2022,Away,UTA Arad,0,1,0,0,-1,7,-3,2,6
+Liga 1,22/08/2022,Home,U. Cluj,0,1,0,0,-1,2,-5,0,6
+Liga 1,22/08/2022,Away,Sepsi Sf. Gheorghe,1,0,3,1,1,10,5,2,6
+Liga 1,22/08/2022,Home,Farul Constanta,2,1,3,1,1,12,4,3,6
+Liga 1,22/08/2022,Away,FC Voluntari,1,2,0,0,-1,7,1,2,6
 MLS,26/02/2022,Home,Philadelphia Union,1,1,1,0,0,1,0,0,1
 MLS,26/02/2022,Away,Minnesota United,1,1,1,0,0,1,0,0,1
 MLS,26/02/2022,Home,Columbus Crew,4,0,3,1,4,3,4,1,1
@@ -1039,3 +1049,31 @@ MLS,18/08/2022,Home,FC Dallas,1,0,3,1,1,42,11,11,27
 MLS,18/08/2022,Away,Philadelphia Union,0,1,0,0,-1,48,25,13,26
 MLS,18/08/2022,Home,Vancouver Whitecaps,2,1,3,1,1,33,-14,9,26
 MLS,18/08/2022,Away,Colorado Rapids,1,2,0,0,-1,31,-3,8,25
+MLS,20/08/2022,Home,Los Angeles Galaxy,3,3,1,0,0,34,3,10,25
+MLS,20/08/2022,Away,Seattle Sounders,3,3,1,0,0,33,1,10,26
+MLS,20/08/2022,Home,New York Red Bulls,1,1,1,0,0,41,8,11,27
+MLS,20/08/2022,Away,FC Cincinnati,1,1,1,0,0,34,-3,8,26
+MLS,21/08/2022,Home,CF Montreal,4,0,3,1,4,46,6,14,26
+MLS,21/08/2022,Away,New England Revolution,0,4,0,0,-4,34,-2,8,26
+MLS,21/08/2022,Home,DC United,0,6,0,0,-6,22,-27,6,26
+MLS,21/08/2022,Away,Philadelphia Union,6,0,3,1,6,51,31,14,27
+MLS,21/08/2022,Home,Inter Miami,2,1,3,1,1,36,-8,10,26
+MLS,21/08/2022,Away,Toronto FC,1,2,0,0,-1,30,-7,8,27
+MLS,21/08/2022,Home,Minnesota United,2,1,3,1,1,41,6,12,26
+MLS,21/08/2022,Away,Austin FC,1,2,0,0,-1,48,19,14,26
+MLS,21/08/2022,Home,Colorado Rapids,1,1,1,0,0,32,-3,8,26
+MLS,21/08/2022,Away,Houston Dynamo,1,1,1,0,0,26,-11,7,26
+MLS,21/08/2022,Home,Real Salt Lake,1,1,1,0,0,38,-1,10,26
+MLS,21/08/2022,Away,Vancouver Whitecaps,1,1,1,0,0,34,-14,9,27
+MLS,21/08/2022,Home,San Jose Earthquakes,2,1,3,1,1,27,-12,6,26
+MLS,21/08/2022,Away,Los Angeles FC,1,2,0,0,-1,57,29,18,26
+MLS,21/08/2022,Home,Columbus Crew,2,2,1,0,0,35,5,8,25
+MLS,21/08/2022,Away,Atlanta Utd,2,2,1,0,0,30,-4,7,26
+MLS,21/08/2022,Home,Chicago Fire,0,2,0,0,-2,30,-8,8,26
+MLS,21/08/2022,Away,New York City,2,0,3,1,2,45,18,13,26
+MLS,22/08/2022,Home,Charlotte,1,2,0,0,-1,32,-8,10,27
+MLS,22/08/2022,Away,Orlando City,2,1,3,1,1,36,-7,10,26
+MLS,22/08/2022,Home,Sporting Kansas City,4,1,3,1,3,26,-19,7,27
+MLS,22/08/2022,Away,Portland Timbers,1,4,0,0,-3,33,-1,7,27
+MLS,22/08/2022,Home,Nashville SC,4,0,3,1,4,36,2,9,27
+MLS,22/08/2022,Away,FC Dallas,0,4,0,0,-4,42,7,11,28
