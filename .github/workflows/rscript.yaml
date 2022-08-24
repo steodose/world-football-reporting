@@ -1,9 +1,9 @@
 on:
   schedule:
-    - cron:  "00 23 * * *" # Every day at 11:00pm UTC (4:00pm Pacific)'
+    - cron:  "00 23 * * MON,THU" # Every day at 11:00pm UTC (4:00pm Pacific)'
   workflow_dispatch:
 
-name: scripts
+name: update-data
 
 jobs:
   run-r-script:

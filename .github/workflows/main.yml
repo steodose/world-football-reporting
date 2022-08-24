@@ -3,7 +3,7 @@ name: update-world-football-data
 
 on:
   schedule:
-    - cron: '00 23 * * *'
+    - cron: '00 23 * * MON,THU'
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
         run: 'sudo apt-get -y install libcurl4-openssl-dev'
         shell: bash
       - name: Install CRAN packages
-        run: Rscript -e 'install.packages(c("tidyverse", "googledrive", "googlesheets4"))'
+        run: Rscript -e 'install.packages(c("tidyverse", "googlesheets4"))'
       - name: Run All Leagues script
         run: |
           source('All-Leagues-Tableau-Script.R')
