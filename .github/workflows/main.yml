@@ -21,11 +21,7 @@ jobs:
         shell: bash
       - name: Install CRAN packages
         run: Rscript -e 'install.packages(c("tidyverse", "googledrive", "googlesheets4"))'
-      - name: Run GoogleDrive R script
-        run: |
-          source('scripts/Get-GoogleDrive-Data.R')
-        shell: Rscript {0}
-      - name: Run basic plot script
+      - name: Run All Leagues script
         run: |
           source('All-Leagues-Tableau-Script.R')
         shell: Rscript {0}
