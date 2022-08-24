@@ -1,36 +1,38 @@
-# Update Big 5 European Leagues Dashboard data
-name: update-big-5-data
+# Update World Football Portal Dashboard data
+name: update-world-football-data
 
-# Controls when the action will run.
 on:
   schedule:
-    - cron: "00 23 * * MON" # Every Monday at 11:00pm UTC (4:00pm Pacific)'
+    - cron: '00 23 * * *'
 
 jobs:
-  autoscrape:
-    # The type of runner that the job will run on
-    runs-on: macos-latest
-
-    # Load repo and install R
+  run-r-script:
+    name: Run R script and update Google Sheets
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
     steps:
-    - uses: actions/checkout@master
-    - uses: r-lib/actions/setup-r@master
-
-    # Set-up R
-    - name: Install packages
-      run: |
-        R -e 'install.packages("tidyverse")'
-        R -e 'install.packages("worldfootballR")'
-        R -e 'install.packages("googlesheets4")'
-    # Run R script
-    - name: Big_Five
-      run: Rscript Big_5_Leagues.R
-
-    # Add new files in Google Sheets based on content of script
-    - name: Commit files
-      run: |
-        git config --local user.name github-actions
-        git config --local user.email "actions@github.com"
-      env:
-        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-        username: github-actions
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      - name: Install libcurl and libssl on Linux
+        run: 'sudo apt-get -y install libcurl4-openssl-dev'
+        shell: bash
+      - name: Install CRAN packages
+        run: Rscript -e 'install.packages(c("tidyverse", "googledrive", "googlesheets4"))'
+      - name: Run GoogleDrive R script
+        run: |
+          source('scripts/Get-GoogleDrive-Data.R')
+        shell: Rscript {0}
+      - name: Run basic plot script
+        run: |
+          source('All-Leagues-Tableau-Script.R')
+        shell: Rscript {0}
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add data 
+          git add basic_plots
+          git commit -m 'Run script and update Google Sheet with latest matches' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
