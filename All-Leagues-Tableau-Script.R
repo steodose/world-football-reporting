@@ -4,7 +4,7 @@
 
 library(tidyverse)
 library(googlesheets4)
-library(googledrive)
+#library(googledrive)
 
 #googledrive::drive_auth(path = Sys.getenv("GOOGLE_APPLICATION_CREDENTIALS"))
 #googledrive::drive_auth(path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/arched-medley-360300-6e4861e6e129.json")
