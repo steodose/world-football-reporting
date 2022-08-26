@@ -264,8 +264,8 @@ all_leagues <- bind_rows(my_data_frames)
 
 
 # The below is required to handle the authorization of your Google account to have it write the new data to your sheet non-interactively
-#googlesheets4::gs4_deauth()
-#googlesheets4::gs4_auth(path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/arched-medley-360300-6e4861e6e129.json")
+googlesheets4::gs4_deauth()
+googlesheets4::gs4_auth(path = "/Users/Stephan/Desktop/R Projects/world-football-reporting/arched-medley-360300-6e4861e6e129.json")
 #googlesheets4::gs4_auth(path = Sys.getenv("GOOGLE_APPLICATION_CREDENTIALS"))
 
 
