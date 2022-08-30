@@ -59,6 +59,26 @@ E0,21/08/2022,HomeTeam,Newcastle,3,3,1,0,0,5,2,1,3
 E0,21/08/2022,AwayTeam,Man City,3,3,1,0,0,7,6,2,3
 E0,22/08/2022,HomeTeam,Man United,2,1,3,1,1,3,-4,1,3
 E0,22/08/2022,AwayTeam,Liverpool,1,2,0,0,-1,2,-1,0,3
+E0,27/08/2022,HomeTeam,Southampton,0,1,0,0,-1,4,-3,1,4
+E0,27/08/2022,AwayTeam,Man United,1,0,3,1,1,6,-3,2,4
+E0,27/08/2022,HomeTeam,Brentford,1,1,1,0,0,5,3,1,4
+E0,27/08/2022,AwayTeam,Everton,1,1,1,0,0,2,-2,0,4
+E0,27/08/2022,HomeTeam,Brighton,1,0,3,1,1,10,4,3,4
+E0,27/08/2022,AwayTeam,Leeds,0,1,0,0,-1,7,3,2,4
+E0,27/08/2022,HomeTeam,Chelsea,2,1,3,1,1,7,-1,2,4
+E0,27/08/2022,AwayTeam,Leicester,1,2,0,0,-1,1,-4,0,4
+E0,27/08/2022,HomeTeam,Liverpool,9,0,3,1,9,5,8,1,4
+E0,27/08/2022,AwayTeam,Bournemouth,0,9,0,0,-9,3,-14,1,4
+E0,27/08/2022,HomeTeam,Man City,4,2,3,1,2,10,8,3,4
+E0,27/08/2022,AwayTeam,Crystal Palace,2,4,0,0,-2,4,-2,1,4
+E0,27/08/2022,HomeTeam,Arsenal,2,1,3,1,1,12,8,4,4
+E0,27/08/2022,AwayTeam,Fulham,1,2,0,0,-1,5,0,1,4
+E0,28/08/2022,HomeTeam,Aston Villa,0,1,0,0,-1,3,-4,1,4
+E0,28/08/2022,AwayTeam,West Ham,1,0,3,1,1,3,-4,1,4
+E0,28/08/2022,HomeTeam,Wolves,1,1,1,0,0,2,-2,0,4
+E0,28/08/2022,AwayTeam,Newcastle,1,1,1,0,0,6,2,1,4
+E0,28/08/2022,HomeTeam,Nott'm Forest,0,2,0,0,-2,4,-3,1,4
+E0,28/08/2022,AwayTeam,Tottenham,2,0,3,1,2,10,6,3,4
 D1,05/08/2022,HomeTeam,Ein Frankfurt,1,6,0,0,-5,0,-5,0,1
 D1,05/08/2022,AwayTeam,Bayern Munich,6,1,3,1,5,3,5,1,1
 D1,06/08/2022,HomeTeam,Augsburg,0,4,0,0,-4,0,-4,0,1
@@ -113,6 +133,24 @@ D1,21/08/2022,HomeTeam,Ein Frankfurt,1,1,1,0,0,2,-5,0,3
 D1,21/08/2022,AwayTeam,FC Koln,1,1,1,0,0,5,2,1,3
 D1,21/08/2022,HomeTeam,Bochum,0,7,0,0,-7,0,-9,0,3
 D1,21/08/2022,AwayTeam,Bayern Munich,7,0,3,1,7,9,14,3,3
+D1,26/08/2022,HomeTeam,Freiburg,1,0,3,1,1,9,4,3,4
+D1,26/08/2022,AwayTeam,Bochum,0,1,0,0,-1,0,-10,0,4
+D1,27/08/2022,HomeTeam,Hertha,0,1,0,0,-1,1,-4,0,4
+D1,27/08/2022,AwayTeam,Dortmund,1,0,3,1,1,9,3,3,4
+D1,27/08/2022,HomeTeam,Hoffenheim,1,0,3,1,1,9,3,3,4
+D1,27/08/2022,AwayTeam,Augsburg,0,1,0,0,-1,3,-5,1,4
+D1,27/08/2022,HomeTeam,Mainz,0,3,0,0,-3,7,-1,2,4
+D1,27/08/2022,AwayTeam,Leverkusen,3,0,3,1,3,3,-2,1,4
+D1,27/08/2022,HomeTeam,RB Leipzig,2,0,3,1,2,5,1,1,4
+D1,27/08/2022,AwayTeam,Wolfsburg,0,2,0,0,-2,2,-4,0,4
+D1,27/08/2022,HomeTeam,Schalke 04,1,6,0,0,-5,2,-7,0,4
+D1,27/08/2022,AwayTeam,Union Berlin,6,1,3,1,5,10,8,3,4
+D1,27/08/2022,HomeTeam,Bayern Munich,1,1,1,0,0,10,14,3,4
+D1,27/08/2022,AwayTeam,M'gladbach,1,1,1,0,0,8,3,2,4
+D1,28/08/2022,HomeTeam,FC Koln,0,0,1,0,0,6,2,1,4
+D1,28/08/2022,AwayTeam,Stuttgart,0,0,1,0,0,3,-1,0,4
+D1,28/08/2022,HomeTeam,Werder Bremen,3,4,0,0,-1,5,0,1,4
+D1,28/08/2022,AwayTeam,Ein Frankfurt,4,3,3,1,1,5,-4,1,4
 SP1,12/08/2022,HomeTeam,Osasuna,2,1,3,1,1,3,1,1,1
 SP1,12/08/2022,AwayTeam,Sevilla,1,2,0,0,-1,0,-1,0,1
 SP1,13/08/2022,HomeTeam,Celta,2,2,1,0,0,1,0,0,1
@@ -153,6 +191,26 @@ SP1,22/08/2022,HomeTeam,Elche,1,1,1,0,0,1,-3,0,2
 SP1,22/08/2022,AwayTeam,Almeria,1,1,1,0,0,1,-1,0,2
 SP1,22/08/2022,HomeTeam,Girona,3,1,3,1,2,3,1,1,2
 SP1,22/08/2022,AwayTeam,Getafe,1,3,0,0,-2,0,-5,0,2
+SP1,26/08/2022,HomeTeam,Girona,0,1,0,0,-1,3,0,1,3
+SP1,26/08/2022,AwayTeam,Celta,1,0,3,1,1,4,-2,1,3
+SP1,26/08/2022,HomeTeam,Betis,1,0,3,1,1,9,5,3,3
+SP1,26/08/2022,AwayTeam,Osasuna,0,1,0,0,-1,6,2,2,3
+SP1,27/08/2022,HomeTeam,Elche,0,1,0,0,-1,1,-4,0,3
+SP1,27/08/2022,AwayTeam,Sociedad,1,0,3,1,1,6,-1,2,3
+SP1,27/08/2022,HomeTeam,Vallecano,0,2,0,0,-2,4,0,1,3
+SP1,27/08/2022,AwayTeam,Mallorca,2,0,3,1,2,4,1,1,3
+SP1,27/08/2022,HomeTeam,Almeria,2,1,3,1,1,4,0,1,3
+SP1,27/08/2022,AwayTeam,Sevilla,1,2,0,0,-1,1,-2,0,3
+SP1,28/08/2022,HomeTeam,Getafe,0,0,1,0,0,1,-5,0,3
+SP1,28/08/2022,AwayTeam,Villarreal,0,0,1,0,0,7,5,2,3
+SP1,28/08/2022,HomeTeam,Barcelona,4,0,3,1,4,7,7,2,3
+SP1,28/08/2022,AwayTeam,Valladolid,0,4,0,0,-4,1,-7,0,3
+SP1,28/08/2022,HomeTeam,Espanol,1,3,0,0,-2,1,-4,0,3
+SP1,28/08/2022,AwayTeam,Real Madrid,3,1,3,1,2,9,6,3,3
+SP1,29/08/2022,HomeTeam,Cadiz,0,4,0,0,-4,0,-7,0,3
+SP1,29/08/2022,AwayTeam,Ath Bilbao,4,0,3,1,4,7,5,2,3
+SP1,29/08/2022,HomeTeam,Valencia,0,1,0,0,-1,3,-1,1,3
+SP1,29/08/2022,AwayTeam,Ath Madrid,1,0,3,1,1,6,2,2,3
 F1,05/08/2022,HomeTeam,Lyon,2,1,3,1,1,3,1,1,1
 F1,05/08/2022,AwayTeam,Ajaccio,1,2,0,0,-1,0,-1,0,1
 F1,06/08/2022,HomeTeam,Strasbourg,1,2,0,0,-1,0,-1,0,1
@@ -211,6 +269,26 @@ F1,21/08/2022,HomeTeam,Rennes,2,1,3,1,1,4,0,1,3
 F1,21/08/2022,AwayTeam,Ajaccio,1,2,0,0,-1,1,-2,0,3
 F1,21/08/2022,HomeTeam,Lille,1,7,0,0,-6,4,-3,1,3
 F1,21/08/2022,AwayTeam,Paris SG,7,1,3,1,6,9,14,3,3
+F1,26/08/2022,HomeTeam,Ajaccio,1,3,0,0,-2,1,-4,0,4
+F1,26/08/2022,AwayTeam,Lille,3,1,3,1,2,7,-1,2,4
+F1,27/08/2022,HomeTeam,Auxerre,1,0,3,1,1,7,-1,2,4
+F1,27/08/2022,AwayTeam,Strasbourg,0,1,0,0,-1,2,-2,0,4
+F1,27/08/2022,HomeTeam,Lens,2,1,3,1,1,10,5,3,4
+F1,27/08/2022,AwayTeam,Rennes,1,2,0,0,-1,4,-1,1,4
+F1,28/08/2022,HomeTeam,Nantes,3,1,3,1,2,5,1,1,4
+F1,28/08/2022,AwayTeam,Toulouse,1,3,0,0,-2,5,1,1,4
+F1,28/08/2022,HomeTeam,Brest,0,7,0,0,-7,4,-6,1,4
+F1,28/08/2022,AwayTeam,Montpellier,7,0,3,1,7,6,4,2,4
+F1,28/08/2022,HomeTeam,Lorient,2,1,3,1,1,7,2,2,3
+F1,28/08/2022,AwayTeam,Clermont,1,2,0,0,-1,6,-3,2,4
+F1,28/08/2022,HomeTeam,Nice,0,3,0,0,-3,2,-4,0,4
+F1,28/08/2022,AwayTeam,Marseille,3,0,3,1,3,10,7,3,4
+F1,28/08/2022,HomeTeam,Troyes,3,1,3,1,2,3,-5,1,4
+F1,28/08/2022,AwayTeam,Angers,1,3,0,0,-2,2,-4,0,4
+F1,28/08/2022,HomeTeam,Reims,1,1,1,0,0,2,-5,0,4
+F1,28/08/2022,AwayTeam,Lyon,1,1,1,0,0,7,4,2,3
+F1,28/08/2022,HomeTeam,Paris SG,1,1,1,0,0,10,14,3,4
+F1,28/08/2022,AwayTeam,Monaco,1,1,1,0,0,5,-2,1,4
 I1,13/08/2022,HomeTeam,Milan,4,2,3,1,2,3,2,1,1
 I1,13/08/2022,AwayTeam,Udinese,2,4,0,0,-2,0,-2,0,1
 I1,13/08/2022,HomeTeam,Sampdoria,0,2,0,0,-2,0,-2,0,1
@@ -251,6 +329,26 @@ I1,22/08/2022,HomeTeam,Roma,1,0,3,1,1,6,2,2,2
 I1,22/08/2022,AwayTeam,Cremonese,0,1,0,0,-1,0,-2,0,2
 I1,22/08/2022,HomeTeam,Sampdoria,0,0,1,0,0,1,-2,0,2
 I1,22/08/2022,AwayTeam,Juventus,0,0,1,0,0,4,3,1,2
+I1,26/08/2022,HomeTeam,Monza,1,2,0,0,-1,0,-6,0,3
+I1,26/08/2022,AwayTeam,Udinese,2,1,3,1,1,4,-1,1,3
+I1,26/08/2022,HomeTeam,Lazio,3,1,3,1,2,7,3,2,3
+I1,26/08/2022,AwayTeam,Inter,1,3,0,0,-2,6,2,2,3
+I1,27/08/2022,HomeTeam,Cremonese,1,2,0,0,-1,0,-3,0,3
+I1,27/08/2022,AwayTeam,Torino,2,1,3,1,1,7,2,2,3
+I1,27/08/2022,HomeTeam,Juventus,1,1,1,0,0,5,3,1,3
+I1,27/08/2022,AwayTeam,Roma,1,1,1,0,0,7,2,2,3
+I1,27/08/2022,HomeTeam,Milan,2,0,3,1,2,7,4,2,3
+I1,27/08/2022,AwayTeam,Bologna,0,2,0,0,-2,1,-3,0,3
+I1,27/08/2022,HomeTeam,Spezia,2,2,1,0,0,4,-2,1,3
+I1,27/08/2022,AwayTeam,Sassuolo,2,2,1,0,0,4,-2,1,3
+I1,28/08/2022,HomeTeam,Salernitana,4,0,3,1,4,4,3,1,3
+I1,28/08/2022,AwayTeam,Sampdoria,0,4,0,0,-4,1,-6,0,3
+I1,28/08/2022,HomeTeam,Verona,0,1,0,0,-1,1,-4,0,3
+I1,28/08/2022,AwayTeam,Atalanta,1,0,3,1,1,7,3,2,3
+I1,28/08/2022,HomeTeam,Fiorentina,0,0,1,0,0,5,1,1,3
+I1,28/08/2022,AwayTeam,Napoli,0,0,1,0,0,7,7,2,3
+I1,28/08/2022,HomeTeam,Lecce,1,1,1,0,0,1,-2,0,3
+I1,28/08/2022,AwayTeam,Empoli,1,1,1,0,0,2,-1,0,3
 Liga 1,15/07/2022,Home,FC Hermannstadt,3,0,3,1,3,3,3,1,1
 Liga 1,15/07/2022,Away,Mioveni,0,3,0,0,-3,0,-3,0,1
 Liga 1,15/07/2022,Home,Univ. Craiova,2,2,1,0,0,1,0,0,1
